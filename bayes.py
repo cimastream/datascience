@@ -47,3 +47,33 @@ def trainNB0(trainMatrix, trainCategory):
   p0Vect = p0Num / p0Denom    #change to log()
   return p0Vect, p1Vect, pAbusive
 
+def classifyNB(vec2Classify, p0Vec, p1Vec, pClass1):
+  p1 = sum(vec2Classify * p1Vec) + log(pClass1)
+  p0 = sum(vec2Classify * p0Vec) + log(1.0 - pClass1)
+  if p1 > p0:
+    return 1
+  else:
+    return 0
+
+def testingNB():
+  listOPosts, listClasses = loadDataSet()
+  myVocabList = createVocabList(listOPosts)
+  trainMat = []
+  for postingDoc in listOPosts:
+    trainMat.append(setOfWords2Vec(myVocabList, postingDoc))
+    p0V, p1V, pAb = trainNB0(array(trainMat), array(listClasses))
+    testEntry = ['love', 'my', 'dalmation']
+    thisDoc = array(setOfWords2Vec(myVocabList, testEntry))
+    print testEntry, 'classified as: ', classifyNB(thisDoc, p0V, p1V, pAb)
+    testEntry = ['stupid', 'garbage']
+    thisDoc = array(setOfWords2Vec(myVocabList, testEntry))
+    print testEntry, 'classified as: ', classifyNB(thisDoc, p0V, p1V, pAb)
+    pass
+
+def bagOfWords2VecMN(vocabList, imputSet):
+  returnVec = [0]*len(vocabList)
+  for word in inputSet:
+    if word in vocabList:
+      returnVec[vocabList.index(word)] += 1
+      return returnVec
+
