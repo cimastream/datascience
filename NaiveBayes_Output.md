@@ -158,7 +158,418 @@ ny
 
     {'bozo': False,
      u'encoding': u'utf-8',
-     'entries': [{u'dc_source': u'http://newyork.craigslist.org/brk/stp/5505960931.html',
+     'entries': [{u'dc_source': u'http://newyork.craigslist.org/que/stp/5491830449.html',
+       u'dc_type': u'text',
+       u'enc_enclosure': {'resource': u'http://images.craigslist.org/00808_cMPqJD8lfyk_300x300.jpg',
+        'type': u'image/jpeg'},
+       u'id': u'http://newyork.craigslist.org/que/stp/5491830449.html',
+       u'language': u'en-us',
+       u'link': u'http://newyork.craigslist.org/que/stp/5491830449.html',
+       u'links': [{u'href': u'http://newyork.craigslist.org/que/stp/5491830449.html',
+         u'rel': u'alternate',
+         u'type': u'text/html'}],
+       u'published': u'2016-04-12T08:15:09-04:00',
+       u'published_parsed': time.struct_time(tm_year=2016, tm_mon=4, tm_mday=12, tm_hour=12, tm_min=15, tm_sec=9, tm_wday=1, tm_yday=103, tm_isdst=0),
+       u'rights': u'&copy; 2016 <span class="desktop">craigslist</span><span class="mobile">CL</span>',
+       u'rights_detail': {u'base': u'http://newyork.craigslist.org/search/stp?format=rss',
+        u'language': None,
+        u'type': u'text/html',
+        u'value': u'&copy; 2016 <span class="desktop">craigslist</span><span class="mobile">CL</span>'},
+       u'summary': u'You can be busy with work and life, not having time for a relationship. Or just simply in a dry spell, until Mr. Right happens along. You have needs, and you would like them taken care of. \nYou are getting bored with your hand held toy, and would lik [...]',
+       u'summary_detail': {u'base': u'http://newyork.craigslist.org/search/stp?format=rss',
+        u'language': None,
+        u'type': u'text/html',
+        u'value': u'You can be busy with work and life, not having time for a relationship. Or just simply in a dry spell, until Mr. Right happens along. You have needs, and you would like them taken care of. \nYou are getting bored with your hand held toy, and would lik [...]'},
+       u'title': u'A  gal   has   her  NEEDS (Queens/host or travel)',
+       u'title_detail': {u'base': u'http://newyork.craigslist.org/search/stp?format=rss',
+        u'language': None,
+        u'type': u'text/plain',
+        u'value': u'A  gal   has   her  NEEDS (Queens/host or travel)'},
+       u'updated': u'2016-04-12T08:15:09-04:00',
+       u'updated_parsed': time.struct_time(tm_year=2016, tm_mon=4, tm_mday=12, tm_hour=12, tm_min=15, tm_sec=9, tm_wday=1, tm_yday=103, tm_isdst=0)},
+      {u'dc_source': u'http://newyork.craigslist.org/mnh/stp/5523084115.html',
+       u'dc_type': u'text',
+       u'id': u'http://newyork.craigslist.org/mnh/stp/5523084115.html',
+       u'language': u'en-us',
+       u'link': u'http://newyork.craigslist.org/mnh/stp/5523084115.html',
+       u'links': [{u'href': u'http://newyork.craigslist.org/mnh/stp/5523084115.html',
+         u'rel': u'alternate',
+         u'type': u'text/html'}],
+       u'published': u'2016-04-12T08:14:23-04:00',
+       u'published_parsed': time.struct_time(tm_year=2016, tm_mon=4, tm_mday=12, tm_hour=12, tm_min=14, tm_sec=23, tm_wday=1, tm_yday=103, tm_isdst=0),
+       u'rights': u'&copy; 2016 <span class="desktop">craigslist</span><span class="mobile">CL</span>',
+       u'rights_detail': {u'base': u'http://newyork.craigslist.org/search/stp?format=rss',
+        u'language': None,
+        u'type': u'text/html',
+        u'value': u'&copy; 2016 <span class="desktop">craigslist</span><span class="mobile">CL</span>'},
+       u'summary': u"Looking for much younger (20-26). I'm fit, successful, generous and looking for the right situation (even long term) with the right person. \nYour pic gets mine.",
+       u'summary_detail': {u'base': u'http://newyork.craigslist.org/search/stp?format=rss',
+        u'language': None,
+        u'type': u'text/html',
+        u'value': u"Looking for much younger (20-26). I'm fit, successful, generous and looking for the right situation (even long term) with the right person. \nYour pic gets mine."},
+       u'title': u'Older for younger - m4w (Manhattan)',
+       u'title_detail': {u'base': u'http://newyork.craigslist.org/search/stp?format=rss',
+        u'language': None,
+        u'type': u'text/plain',
+        u'value': u'Older for younger - m4w (Manhattan)'},
+       u'updated': u'2016-04-12T08:14:23-04:00',
+       u'updated_parsed': time.struct_time(tm_year=2016, tm_mon=4, tm_mday=12, tm_hour=12, tm_min=14, tm_sec=23, tm_wday=1, tm_yday=103, tm_isdst=0)},
+      {u'dc_source': u'http://newyork.craigslist.org/brx/stp/5535262267.html',
+       u'dc_type': u'text',
+       u'id': u'http://newyork.craigslist.org/brx/stp/5535262267.html',
+       u'language': u'en-us',
+       u'link': u'http://newyork.craigslist.org/brx/stp/5535262267.html',
+       u'links': [{u'href': u'http://newyork.craigslist.org/brx/stp/5535262267.html',
+         u'rel': u'alternate',
+         u'type': u'text/html'}],
+       u'published': u'2016-04-12T08:14:23-04:00',
+       u'published_parsed': time.struct_time(tm_year=2016, tm_mon=4, tm_mday=12, tm_hour=12, tm_min=14, tm_sec=23, tm_wday=1, tm_yday=103, tm_isdst=0),
+       u'rights': u'&copy; 2016 <span class="desktop">craigslist</span><span class="mobile">CL</span>',
+       u'rights_detail': {u'base': u'http://newyork.craigslist.org/search/stp?format=rss',
+        u'language': None,
+        u'type': u'text/html',
+        u'value': u'&copy; 2016 <span class="desktop">craigslist</span><span class="mobile">CL</span>'},
+       u'summary': u"Hello, \nSo maybe this is just a bit of a rant, but I'm also a little curious who's out there. See, I have this problem. On a scale of 1-10 it's like a 13. I used to be very social, too social maybe, and of course only with women. Despite several effo [...]",
+       u'summary_detail': {u'base': u'http://newyork.craigslist.org/search/stp?format=rss',
+        u'language': None,
+        u'type': u'text/html',
+        u'value': u"Hello, \nSo maybe this is just a bit of a rant, but I'm also a little curious who's out there. See, I have this problem. On a scale of 1-10 it's like a 13. I used to be very social, too social maybe, and of course only with women. Despite several effo [...]"},
+       u'title': u'Difficult to control - m4w',
+       u'title_detail': {u'base': u'http://newyork.craigslist.org/search/stp?format=rss',
+        u'language': None,
+        u'type': u'text/plain',
+        u'value': u'Difficult to control - m4w'},
+       u'updated': u'2016-04-12T08:14:23-04:00',
+       u'updated_parsed': time.struct_time(tm_year=2016, tm_mon=4, tm_mday=12, tm_hour=12, tm_min=14, tm_sec=23, tm_wday=1, tm_yday=103, tm_isdst=0)},
+      {u'dc_source': u'http://newyork.craigslist.org/jsy/stp/5523085177.html',
+       u'dc_type': u'text',
+       u'id': u'http://newyork.craigslist.org/jsy/stp/5523085177.html',
+       u'language': u'en-us',
+       u'link': u'http://newyork.craigslist.org/jsy/stp/5523085177.html',
+       u'links': [{u'href': u'http://newyork.craigslist.org/jsy/stp/5523085177.html',
+         u'rel': u'alternate',
+         u'type': u'text/html'}],
+       u'published': u'2016-04-12T08:14:14-04:00',
+       u'published_parsed': time.struct_time(tm_year=2016, tm_mon=4, tm_mday=12, tm_hour=12, tm_min=14, tm_sec=14, tm_wday=1, tm_yday=103, tm_isdst=0),
+       u'rights': u'&copy; 2016 <span class="desktop">craigslist</span><span class="mobile">CL</span>',
+       u'rights_detail': {u'base': u'http://newyork.craigslist.org/search/stp?format=rss',
+        u'language': None,
+        u'type': u'text/html',
+        u'value': u'&copy; 2016 <span class="desktop">craigslist</span><span class="mobile">CL</span>'},
+       u'summary': u'We probably never meet but share all explicit fantasies, past encounters, future desires with each other over email',
+       u'summary_detail': {u'base': u'http://newyork.craigslist.org/search/stp?format=rss',
+        u'language': None,
+        u'type': u'text/html',
+        u'value': u'We probably never meet but share all explicit fantasies, past encounters, future desires with each other over email'},
+       u'title': u'Explicit Email friend - m4w (Fairfield)',
+       u'title_detail': {u'base': u'http://newyork.craigslist.org/search/stp?format=rss',
+        u'language': None,
+        u'type': u'text/plain',
+        u'value': u'Explicit Email friend - m4w (Fairfield)'},
+       u'updated': u'2016-04-12T08:14:14-04:00',
+       u'updated_parsed': time.struct_time(tm_year=2016, tm_mon=4, tm_mday=12, tm_hour=12, tm_min=14, tm_sec=14, tm_wday=1, tm_yday=103, tm_isdst=0)},
+      {u'dc_source': u'http://newyork.craigslist.org/que/stp/5504300515.html',
+       u'dc_type': u'text',
+       u'id': u'http://newyork.craigslist.org/que/stp/5504300515.html',
+       u'language': u'en-us',
+       u'link': u'http://newyork.craigslist.org/que/stp/5504300515.html',
+       u'links': [{u'href': u'http://newyork.craigslist.org/que/stp/5504300515.html',
+         u'rel': u'alternate',
+         u'type': u'text/html'}],
+       u'published': u'2016-04-12T08:13:55-04:00',
+       u'published_parsed': time.struct_time(tm_year=2016, tm_mon=4, tm_mday=12, tm_hour=12, tm_min=13, tm_sec=55, tm_wday=1, tm_yday=103, tm_isdst=0),
+       u'rights': u'&copy; 2016 <span class="desktop">craigslist</span><span class="mobile">CL</span>',
+       u'rights_detail': {u'base': u'http://newyork.craigslist.org/search/stp?format=rss',
+        u'language': None,
+        u'type': u'text/html',
+        u'value': u'&copy; 2016 <span class="desktop">craigslist</span><span class="mobile">CL</span>'},
+       u'summary': u"Have extra time in the area in the late afternoon, early evenings \nwould be great to have drinks, appetizers somewhere by the Bell/Northern area \nLet's get to know each other",
+       u'summary_detail': {u'base': u'http://newyork.craigslist.org/search/stp?format=rss',
+        u'language': None,
+        u'type': u'text/html',
+        u'value': u"Have extra time in the area in the late afternoon, early evenings \nwould be great to have drinks, appetizers somewhere by the Bell/Northern area \nLet's get to know each other"},
+       u'title': u'Looking for Bayside friend - m4w (Bayside)',
+       u'title_detail': {u'base': u'http://newyork.craigslist.org/search/stp?format=rss',
+        u'language': None,
+        u'type': u'text/plain',
+        u'value': u'Looking for Bayside friend - m4w (Bayside)'},
+       u'updated': u'2016-04-12T08:13:55-04:00',
+       u'updated_parsed': time.struct_time(tm_year=2016, tm_mon=4, tm_mday=12, tm_hour=12, tm_min=13, tm_sec=55, tm_wday=1, tm_yday=103, tm_isdst=0)},
+      {u'dc_source': u'http://newyork.craigslist.org/mnh/stp/5521133804.html',
+       u'dc_type': u'text',
+       u'id': u'http://newyork.craigslist.org/mnh/stp/5521133804.html',
+       u'language': u'en-us',
+       u'link': u'http://newyork.craigslist.org/mnh/stp/5521133804.html',
+       u'links': [{u'href': u'http://newyork.craigslist.org/mnh/stp/5521133804.html',
+         u'rel': u'alternate',
+         u'type': u'text/html'}],
+       u'published': u'2016-04-12T08:13:51-04:00',
+       u'published_parsed': time.struct_time(tm_year=2016, tm_mon=4, tm_mday=12, tm_hour=12, tm_min=13, tm_sec=51, tm_wday=1, tm_yday=103, tm_isdst=0),
+       u'rights': u'&copy; 2016 <span class="desktop">craigslist</span><span class="mobile">CL</span>',
+       u'rights_detail': {u'base': u'http://newyork.craigslist.org/search/stp?format=rss',
+        u'language': None,
+        u'type': u'text/html',
+        u'value': u'&copy; 2016 <span class="desktop">craigslist</span><span class="mobile">CL</span>'},
+       u'summary': u"Married, seeking right situation with Asian Female. I'm fit, good looking and generous. \nLet's get to know each other and see if we click.",
+       u'summary_detail': {u'base': u'http://newyork.craigslist.org/search/stp?format=rss',
+        u'language': None,
+        u'type': u'text/html',
+        u'value': u"Married, seeking right situation with Asian Female. I'm fit, good looking and generous. \nLet's get to know each other and see if we click."},
+       u'title': u'Seeking Asian Female - m4w (Midtown)',
+       u'title_detail': {u'base': u'http://newyork.craigslist.org/search/stp?format=rss',
+        u'language': None,
+        u'type': u'text/plain',
+        u'value': u'Seeking Asian Female - m4w (Midtown)'},
+       u'updated': u'2016-04-12T08:13:51-04:00',
+       u'updated_parsed': time.struct_time(tm_year=2016, tm_mon=4, tm_mday=12, tm_hour=12, tm_min=13, tm_sec=51, tm_wday=1, tm_yday=103, tm_isdst=0)},
+      {u'dc_source': u'http://newyork.craigslist.org/que/stp/5521133988.html',
+       u'dc_type': u'text',
+       u'id': u'http://newyork.craigslist.org/que/stp/5521133988.html',
+       u'language': u'en-us',
+       u'link': u'http://newyork.craigslist.org/que/stp/5521133988.html',
+       u'links': [{u'href': u'http://newyork.craigslist.org/que/stp/5521133988.html',
+         u'rel': u'alternate',
+         u'type': u'text/html'}],
+       u'published': u'2016-04-12T08:13:47-04:00',
+       u'published_parsed': time.struct_time(tm_year=2016, tm_mon=4, tm_mday=12, tm_hour=12, tm_min=13, tm_sec=47, tm_wday=1, tm_yday=103, tm_isdst=0),
+       u'rights': u'&copy; 2016 <span class="desktop">craigslist</span><span class="mobile">CL</span>',
+       u'rights_detail': {u'base': u'http://newyork.craigslist.org/search/stp?format=rss',
+        u'language': None,
+        u'type': u'text/html',
+        u'value': u'&copy; 2016 <span class="desktop">craigslist</span><span class="mobile">CL</span>'},
+       u'summary': u"Have extra time in the area in the late afternoon, early evenings \nwould be great to have drinks, appetizers somewhere by the Bell/Northern area \nLet's get to know each other",
+       u'summary_detail': {u'base': u'http://newyork.craigslist.org/search/stp?format=rss',
+        u'language': None,
+        u'type': u'text/html',
+        u'value': u"Have extra time in the area in the late afternoon, early evenings \nwould be great to have drinks, appetizers somewhere by the Bell/Northern area \nLet's get to know each other"},
+       u'title': u'Looking for Bayside friend - m4w (Bayside)',
+       u'title_detail': {u'base': u'http://newyork.craigslist.org/search/stp?format=rss',
+        u'language': None,
+        u'type': u'text/plain',
+        u'value': u'Looking for Bayside friend - m4w (Bayside)'},
+       u'updated': u'2016-04-12T08:13:47-04:00',
+       u'updated_parsed': time.struct_time(tm_year=2016, tm_mon=4, tm_mday=12, tm_hour=12, tm_min=13, tm_sec=47, tm_wday=1, tm_yday=103, tm_isdst=0)},
+      {u'dc_source': u'http://newyork.craigslist.org/mnh/stp/5535256513.html',
+       u'dc_type': u'text',
+       u'id': u'http://newyork.craigslist.org/mnh/stp/5535256513.html',
+       u'language': u'en-us',
+       u'link': u'http://newyork.craigslist.org/mnh/stp/5535256513.html',
+       u'links': [{u'href': u'http://newyork.craigslist.org/mnh/stp/5535256513.html',
+         u'rel': u'alternate',
+         u'type': u'text/html'}],
+       u'published': u'2016-04-12T08:03:40-04:00',
+       u'published_parsed': time.struct_time(tm_year=2016, tm_mon=4, tm_mday=12, tm_hour=12, tm_min=3, tm_sec=40, tm_wday=1, tm_yday=103, tm_isdst=0),
+       u'rights': u'&copy; 2016 <span class="desktop">craigslist</span><span class="mobile">CL</span>',
+       u'rights_detail': {u'base': u'http://newyork.craigslist.org/search/stp?format=rss',
+        u'language': None,
+        u'type': u'text/html',
+        u'value': u'&copy; 2016 <span class="desktop">craigslist</span><span class="mobile">CL</span>'},
+       u'summary': u"Let's get mad high and watch random stuff or talk about whatever. Smoking's a trip, so come join me by telling me you're interested. Put the name of your favorite movie in the subject, so I know this isn't a joke. Know what the word platonic means an [...]",
+       u'summary_detail': {u'base': u'http://newyork.craigslist.org/search/stp?format=rss',
+        u'language': None,
+        u'type': u'text/html',
+        u'value': u"Let's get mad high and watch random stuff or talk about whatever. Smoking's a trip, so come join me by telling me you're interested. Put the name of your favorite movie in the subject, so I know this isn't a joke. Know what the word platonic means an [...]"},
+       u'title': u"Let's Get Fucked Up - m4w (East Harlem)",
+       u'title_detail': {u'base': u'http://newyork.craigslist.org/search/stp?format=rss',
+        u'language': None,
+        u'type': u'text/plain',
+        u'value': u"Let's Get Fucked Up - m4w (East Harlem)"},
+       u'updated': u'2016-04-12T08:03:40-04:00',
+       u'updated_parsed': time.struct_time(tm_year=2016, tm_mon=4, tm_mday=12, tm_hour=12, tm_min=3, tm_sec=40, tm_wday=1, tm_yday=103, tm_isdst=0)},
+      {u'dc_source': u'http://newyork.craigslist.org/brk/stp/5535255977.html',
+       u'dc_type': u'text',
+       u'enc_enclosure': {'resource': u'http://images.craigslist.org/00a0a_lMhhB3Ju85a_300x300.jpg',
+        'type': u'image/jpeg'},
+       u'id': u'http://newyork.craigslist.org/brk/stp/5535255977.html',
+       u'language': u'en-us',
+       u'link': u'http://newyork.craigslist.org/brk/stp/5535255977.html',
+       u'links': [{u'href': u'http://newyork.craigslist.org/brk/stp/5535255977.html',
+         u'rel': u'alternate',
+         u'type': u'text/html'}],
+       u'published': u'2016-04-12T08:02:54-04:00',
+       u'published_parsed': time.struct_time(tm_year=2016, tm_mon=4, tm_mday=12, tm_hour=12, tm_min=2, tm_sec=54, tm_wday=1, tm_yday=103, tm_isdst=0),
+       u'rights': u'&copy; 2016 <span class="desktop">craigslist</span><span class="mobile">CL</span>',
+       u'rights_detail': {u'base': u'http://newyork.craigslist.org/search/stp?format=rss',
+        u'language': None,
+        u'type': u'text/html',
+        u'value': u'&copy; 2016 <span class="desktop">craigslist</span><span class="mobile">CL</span>'},
+       u'summary': u"&#128529; some hater keeps flagging our stuff. All details on the pics and that's my work.",
+       u'summary_detail': {u'base': u'http://newyork.craigslist.org/search/stp?format=rss',
+        u'language': None,
+        u'type': u'text/html',
+        u'value': u"&#128529; some hater keeps flagging our stuff. All details on the pics and that's my work."},
+       u'title': u'Natural beauties IG @syryking - w4w (Flatbush brooklyn)',
+       u'title_detail': {u'base': u'http://newyork.craigslist.org/search/stp?format=rss',
+        u'language': None,
+        u'type': u'text/plain',
+        u'value': u'Natural beauties IG @syryking - w4w (Flatbush brooklyn)'},
+       u'updated': u'2016-04-12T08:02:54-04:00',
+       u'updated_parsed': time.struct_time(tm_year=2016, tm_mon=4, tm_mday=12, tm_hour=12, tm_min=2, tm_sec=54, tm_wday=1, tm_yday=103, tm_isdst=0)},
+      {u'dc_source': u'http://newyork.craigslist.org/mnh/stp/5535265558.html',
+       u'dc_type': u'text',
+       u'id': u'http://newyork.craigslist.org/mnh/stp/5535265558.html',
+       u'language': u'en-us',
+       u'link': u'http://newyork.craigslist.org/mnh/stp/5535265558.html',
+       u'links': [{u'href': u'http://newyork.craigslist.org/mnh/stp/5535265558.html',
+         u'rel': u'alternate',
+         u'type': u'text/html'}],
+       u'published': u'2016-04-12T08:02:03-04:00',
+       u'published_parsed': time.struct_time(tm_year=2016, tm_mon=4, tm_mday=12, tm_hour=12, tm_min=2, tm_sec=3, tm_wday=1, tm_yday=103, tm_isdst=0),
+       u'rights': u'&copy; 2016 <span class="desktop">craigslist</span><span class="mobile">CL</span>',
+       u'rights_detail': {u'base': u'http://newyork.craigslist.org/search/stp?format=rss',
+        u'language': None,
+        u'type': u'text/html',
+        u'value': u'&copy; 2016 <span class="desktop">craigslist</span><span class="mobile">CL</span>'},
+       u'summary': u"I am in my 40's in midtown manhattan. Life has not always been easy but it has been good to me. Along they way I could have used some direction to help me Along. \nI hoping to find a young lady that can prosper from me and my life experices. Someone c [...]",
+       u'summary_detail': {u'base': u'http://newyork.craigslist.org/search/stp?format=rss',
+        u'language': None,
+        u'type': u'text/html',
+        u'value': u"I am in my 40's in midtown manhattan. Life has not always been easy but it has been good to me. Along they way I could have used some direction to help me Along. \nI hoping to find a young lady that can prosper from me and my life experices. Someone c [...]"},
+       u'title': u'Mentor - m4w (Midtown)',
+       u'title_detail': {u'base': u'http://newyork.craigslist.org/search/stp?format=rss',
+        u'language': None,
+        u'type': u'text/plain',
+        u'value': u'Mentor - m4w (Midtown)'},
+       u'updated': u'2016-04-12T08:02:03-04:00',
+       u'updated_parsed': time.struct_time(tm_year=2016, tm_mon=4, tm_mday=12, tm_hour=12, tm_min=2, tm_sec=3, tm_wday=1, tm_yday=103, tm_isdst=0)},
+      {u'dc_source': u'http://newyork.craigslist.org/mnh/stp/5506247726.html',
+       u'dc_type': u'text',
+       u'id': u'http://newyork.craigslist.org/mnh/stp/5506247726.html',
+       u'language': u'en-us',
+       u'link': u'http://newyork.craigslist.org/mnh/stp/5506247726.html',
+       u'links': [{u'href': u'http://newyork.craigslist.org/mnh/stp/5506247726.html',
+         u'rel': u'alternate',
+         u'type': u'text/html'}],
+       u'published': u'2016-04-12T07:59:05-04:00',
+       u'published_parsed': time.struct_time(tm_year=2016, tm_mon=4, tm_mday=12, tm_hour=11, tm_min=59, tm_sec=5, tm_wday=1, tm_yday=103, tm_isdst=0),
+       u'rights': u'&copy; 2016 <span class="desktop">craigslist</span><span class="mobile">CL</span>',
+       u'rights_detail': {u'base': u'http://newyork.craigslist.org/search/stp?format=rss',
+        u'language': None,
+        u'type': u'text/html',
+        u'value': u'&copy; 2016 <span class="desktop">craigslist</span><span class="mobile">CL</span>'},
+       u'summary': u'Hello. I am a retired minister and I do miss my flock. I enjoy connecting and encouraging those who are unsure and lack the confidence to truly enjoy life. So if you feel the need and desire to respond to this post please put Yes Father in the subj a [...]',
+       u'summary_detail': {u'base': u'http://newyork.craigslist.org/search/stp?format=rss',
+        u'language': None,
+        u'type': u'text/html',
+        u'value': u'Hello. I am a retired minister and I do miss my flock. I enjoy connecting and encouraging those who are unsure and lack the confidence to truly enjoy life. So if you feel the need and desire to respond to this post please put Yes Father in the subj a [...]'},
+       u'title': u'Minister looking for you - m4w (NYC)',
+       u'title_detail': {u'base': u'http://newyork.craigslist.org/search/stp?format=rss',
+        u'language': None,
+        u'type': u'text/plain',
+        u'value': u'Minister looking for you - m4w (NYC)'},
+       u'updated': u'2016-04-12T07:59:05-04:00',
+       u'updated_parsed': time.struct_time(tm_year=2016, tm_mon=4, tm_mday=12, tm_hour=11, tm_min=59, tm_sec=5, tm_wday=1, tm_yday=103, tm_isdst=0)},
+      {u'dc_source': u'http://newyork.craigslist.org/mnh/stp/5535240475.html',
+       u'dc_type': u'text',
+       u'id': u'http://newyork.craigslist.org/mnh/stp/5535240475.html',
+       u'language': u'en-us',
+       u'link': u'http://newyork.craigslist.org/mnh/stp/5535240475.html',
+       u'links': [{u'href': u'http://newyork.craigslist.org/mnh/stp/5535240475.html',
+         u'rel': u'alternate',
+         u'type': u'text/html'}],
+       u'published': u'2016-04-12T07:50:44-04:00',
+       u'published_parsed': time.struct_time(tm_year=2016, tm_mon=4, tm_mday=12, tm_hour=11, tm_min=50, tm_sec=44, tm_wday=1, tm_yday=103, tm_isdst=0),
+       u'rights': u'&copy; 2016 <span class="desktop">craigslist</span><span class="mobile">CL</span>',
+       u'rights_detail': {u'base': u'http://newyork.craigslist.org/search/stp?format=rss',
+        u'language': None,
+        u'type': u'text/html',
+        u'value': u'&copy; 2016 <span class="desktop">craigslist</span><span class="mobile">CL</span>'},
+       u'summary': u"Are you an interesting, educated, articulate, self-aware, curious, passionate, creative, attached female in NYC? \nHave you been in the same relationship for quite a while? \nHave you frequently thought about the fact that you're missing a close, speci [...]",
+       u'summary_detail': {u'base': u'http://newyork.craigslist.org/search/stp?format=rss',
+        u'language': None,
+        u'type': u'text/html',
+        u'value': u"Are you an interesting, educated, articulate, self-aware, curious, passionate, creative, attached female in NYC? \nHave you been in the same relationship for quite a while? \nHave you frequently thought about the fact that you're missing a close, speci [...]"},
+       u'title': u'Seeking a smart, interesting, attached female for close friendship - m4w (Manhattan)',
+       u'title_detail': {u'base': u'http://newyork.craigslist.org/search/stp?format=rss',
+        u'language': None,
+        u'type': u'text/plain',
+        u'value': u'Seeking a smart, interesting, attached female for close friendship - m4w (Manhattan)'},
+       u'updated': u'2016-04-12T07:50:44-04:00',
+       u'updated_parsed': time.struct_time(tm_year=2016, tm_mon=4, tm_mday=12, tm_hour=11, tm_min=50, tm_sec=44, tm_wday=1, tm_yday=103, tm_isdst=0)},
+      {u'dc_source': u'http://newyork.craigslist.org/mnh/stp/5535255767.html',
+       u'dc_type': u'text',
+       u'id': u'http://newyork.craigslist.org/mnh/stp/5535255767.html',
+       u'language': u'en-us',
+       u'link': u'http://newyork.craigslist.org/mnh/stp/5535255767.html',
+       u'links': [{u'href': u'http://newyork.craigslist.org/mnh/stp/5535255767.html',
+         u'rel': u'alternate',
+         u'type': u'text/html'}],
+       u'published': u'2016-04-12T07:47:42-04:00',
+       u'published_parsed': time.struct_time(tm_year=2016, tm_mon=4, tm_mday=12, tm_hour=11, tm_min=47, tm_sec=42, tm_wday=1, tm_yday=103, tm_isdst=0),
+       u'rights': u'&copy; 2016 <span class="desktop">craigslist</span><span class="mobile">CL</span>',
+       u'rights_detail': {u'base': u'http://newyork.craigslist.org/search/stp?format=rss',
+        u'language': None,
+        u'type': u'text/html',
+        u'value': u'&copy; 2016 <span class="desktop">craigslist</span><span class="mobile">CL</span>'},
+       u'summary': u'Let me buy you coffee this morning on the west side. Smart , positive and encouraging guy. Tell me about your life. Looking forward to coffee, across from a warm smile',
+       u'summary_detail': {u'base': u'http://newyork.craigslist.org/search/stp?format=rss',
+        u'language': None,
+        u'type': u'text/html',
+        u'value': u'Let me buy you coffee this morning on the west side. Smart , positive and encouraging guy. Tell me about your life. Looking forward to coffee, across from a warm smile'},
+       u'title': u'Morning coffee - m4w (Upper West Side)',
+       u'title_detail': {u'base': u'http://newyork.craigslist.org/search/stp?format=rss',
+        u'language': None,
+        u'type': u'text/plain',
+        u'value': u'Morning coffee - m4w (Upper West Side)'},
+       u'updated': u'2016-04-12T07:47:42-04:00',
+       u'updated_parsed': time.struct_time(tm_year=2016, tm_mon=4, tm_mday=12, tm_hour=11, tm_min=47, tm_sec=42, tm_wday=1, tm_yday=103, tm_isdst=0)},
+      {u'dc_source': u'http://newyork.craigslist.org/mnh/stp/5535238929.html',
+       u'dc_type': u'text',
+       u'enc_enclosure': {'resource': u'http://images.craigslist.org/00G0G_cfGsXAheC6_300x300.jpg',
+        'type': u'image/jpeg'},
+       u'id': u'http://newyork.craigslist.org/mnh/stp/5535238929.html',
+       u'language': u'en-us',
+       u'link': u'http://newyork.craigslist.org/mnh/stp/5535238929.html',
+       u'links': [{u'href': u'http://newyork.craigslist.org/mnh/stp/5535238929.html',
+         u'rel': u'alternate',
+         u'type': u'text/html'}],
+       u'published': u'2016-04-12T07:35:51-04:00',
+       u'published_parsed': time.struct_time(tm_year=2016, tm_mon=4, tm_mday=12, tm_hour=11, tm_min=35, tm_sec=51, tm_wday=1, tm_yday=103, tm_isdst=0),
+       u'rights': u'&copy; 2016 <span class="desktop">craigslist</span><span class="mobile">CL</span>',
+       u'rights_detail': {u'base': u'http://newyork.craigslist.org/search/stp?format=rss',
+        u'language': None,
+        u'type': u'text/html',
+        u'value': u'&copy; 2016 <span class="desktop">craigslist</span><span class="mobile">CL</span>'},
+       u'summary': u"I'm a sweet, compassionate girl that is just going through a bad patch. I am grateful for all of the good that I have but unfortunately I have pretty bad depression and anxiety and it's just so hard to cope lately. I'd love to spend some time with a  [...]",
+       u'summary_detail': {u'base': u'http://newyork.craigslist.org/search/stp?format=rss',
+        u'language': None,
+        u'type': u'text/html',
+        u'value': u"I'm a sweet, compassionate girl that is just going through a bad patch. I am grateful for all of the good that I have but unfortunately I have pretty bad depression and anxiety and it's just so hard to cope lately. I'd love to spend some time with a  [...]"},
+       u'title': u'Going through a hard time, visiting for work - w4w (Midtown)',
+       u'title_detail': {u'base': u'http://newyork.craigslist.org/search/stp?format=rss',
+        u'language': None,
+        u'type': u'text/plain',
+        u'value': u'Going through a hard time, visiting for work - w4w (Midtown)'},
+       u'updated': u'2016-04-12T07:35:51-04:00',
+       u'updated_parsed': time.struct_time(tm_year=2016, tm_mon=4, tm_mday=12, tm_hour=11, tm_min=35, tm_sec=51, tm_wday=1, tm_yday=103, tm_isdst=0)},
+      {u'dc_source': u'http://newyork.craigslist.org/brk/stp/5516082933.html',
+       u'dc_type': u'text',
+       u'id': u'http://newyork.craigslist.org/brk/stp/5516082933.html',
+       u'language': u'en-us',
+       u'link': u'http://newyork.craigslist.org/brk/stp/5516082933.html',
+       u'links': [{u'href': u'http://newyork.craigslist.org/brk/stp/5516082933.html',
+         u'rel': u'alternate',
+         u'type': u'text/html'}],
+       u'published': u'2016-04-12T07:22:56-04:00',
+       u'published_parsed': time.struct_time(tm_year=2016, tm_mon=4, tm_mday=12, tm_hour=11, tm_min=22, tm_sec=56, tm_wday=1, tm_yday=103, tm_isdst=0),
+       u'rights': u'&copy; 2016 <span class="desktop">craigslist</span><span class="mobile">CL</span>',
+       u'rights_detail': {u'base': u'http://newyork.craigslist.org/search/stp?format=rss',
+        u'language': None,
+        u'type': u'text/html',
+        u'value': u'&copy; 2016 <span class="desktop">craigslist</span><span class="mobile">CL</span>'},
+       u'summary': u'--------------------------------------------------------------------------------------------------------------------------- \n37 yr old white guy married and extremely unhappy looking to get out and see a movie or something and have a little fun \nif y [...]',
+       u'summary_detail': {u'base': u'http://newyork.craigslist.org/search/stp?format=rss',
+        u'language': None,
+        u'type': u'text/html',
+        u'value': u'--------------------------------------------------------------------------------------------------------------------------- \n37 yr old white guy married and extremely unhappy looking to get out and see a movie or something and have a little fun \nif y [...]'},
+       u'title': u'Married & Unhappy - m4w',
+       u'title_detail': {u'base': u'http://newyork.craigslist.org/search/stp?format=rss',
+        u'language': None,
+        u'type': u'text/plain',
+        u'value': u'Married & Unhappy - m4w'},
+       u'updated': u'2016-04-12T07:22:56-04:00',
+       u'updated_parsed': time.struct_time(tm_year=2016, tm_mon=4, tm_mday=12, tm_hour=11, tm_min=22, tm_sec=56, tm_wday=1, tm_yday=103, tm_isdst=0)},
+      {u'dc_source': u'http://newyork.craigslist.org/brk/stp/5505960931.html',
        u'dc_type': u'text',
        u'enc_enclosure': {'resource': u'http://images.craigslist.org/00e0e_bQScnNbhHL_300x300.jpg',
         'type': u'image/jpeg'},
@@ -437,426 +848,7 @@ ny
         u'type': u'text/plain',
         u'value': u'Bonding business proposal - m4w (NYC)'},
        u'updated': u'2016-04-12T03:20:29-04:00',
-       u'updated_parsed': time.struct_time(tm_year=2016, tm_mon=4, tm_mday=12, tm_hour=7, tm_min=20, tm_sec=29, tm_wday=1, tm_yday=103, tm_isdst=0)},
-      {u'dc_source': u'http://newyork.craigslist.org/wch/stp/5535133782.html',
-       u'dc_type': u'text',
-       u'id': u'http://newyork.craigslist.org/wch/stp/5535133782.html',
-       u'language': u'en-us',
-       u'link': u'http://newyork.craigslist.org/wch/stp/5535133782.html',
-       u'links': [{u'href': u'http://newyork.craigslist.org/wch/stp/5535133782.html',
-         u'rel': u'alternate',
-         u'type': u'text/html'}],
-       u'published': u'2016-04-12T03:11:50-04:00',
-       u'published_parsed': time.struct_time(tm_year=2016, tm_mon=4, tm_mday=12, tm_hour=7, tm_min=11, tm_sec=50, tm_wday=1, tm_yday=103, tm_isdst=0),
-       u'rights': u'&copy; 2016 <span class="desktop">craigslist</span><span class="mobile">CL</span>',
-       u'rights_detail': {u'base': u'http://newyork.craigslist.org/search/stp?format=rss',
-        u'language': None,
-        u'type': u'text/html',
-        u'value': u'&copy; 2016 <span class="desktop">craigslist</span><span class="mobile">CL</span>'},
-       u'summary': u"First time sucking cock . white bear only . i can't host . you car host .... Clean and d&amp;d free. ,like me Kik c00f .",
-       u'summary_detail': {u'base': u'http://newyork.craigslist.org/search/stp?format=rss',
-        u'language': None,
-        u'type': u'text/html',
-        u'value': u"First time sucking cock . white bear only . i can't host . you car host .... Clean and d&amp;d free. ,like me Kik c00f ."},
-       u'title': u'Sucking dick - m4m (Yonkers)',
-       u'title_detail': {u'base': u'http://newyork.craigslist.org/search/stp?format=rss',
-        u'language': None,
-        u'type': u'text/plain',
-        u'value': u'Sucking dick - m4m (Yonkers)'},
-       u'updated': u'2016-04-12T03:11:50-04:00',
-       u'updated_parsed': time.struct_time(tm_year=2016, tm_mon=4, tm_mday=12, tm_hour=7, tm_min=11, tm_sec=50, tm_wday=1, tm_yday=103, tm_isdst=0)},
-      {u'dc_source': u'http://newyork.craigslist.org/mnh/stp/5535164210.html',
-       u'dc_type': u'text',
-       u'id': u'http://newyork.craigslist.org/mnh/stp/5535164210.html',
-       u'language': u'en-us',
-       u'link': u'http://newyork.craigslist.org/mnh/stp/5535164210.html',
-       u'links': [{u'href': u'http://newyork.craigslist.org/mnh/stp/5535164210.html',
-         u'rel': u'alternate',
-         u'type': u'text/html'}],
-       u'published': u'2016-04-12T03:10:50-04:00',
-       u'published_parsed': time.struct_time(tm_year=2016, tm_mon=4, tm_mday=12, tm_hour=7, tm_min=10, tm_sec=50, tm_wday=1, tm_yday=103, tm_isdst=0),
-       u'rights': u'&copy; 2016 <span class="desktop">craigslist</span><span class="mobile">CL</span>',
-       u'rights_detail': {u'base': u'http://newyork.craigslist.org/search/stp?format=rss',
-        u'language': None,
-        u'type': u'text/html',
-        u'value': u'&copy; 2016 <span class="desktop">craigslist</span><span class="mobile">CL</span>'},
-       u'summary': u"I'm a good looking, fun-loving, high energy ping pong enthusiast who would love to find a kindred spirit to join me at Wang Chen Table Tennis Club on West 100th Street after 3PM on weekdays or after 11AM on weekends. Very reasonable rates. I know you [...]",
-       u'summary_detail': {u'base': u'http://newyork.craigslist.org/search/stp?format=rss',
-        u'language': None,
-        u'type': u'text/html',
-        u'value': u"I'm a good looking, fun-loving, high energy ping pong enthusiast who would love to find a kindred spirit to join me at Wang Chen Table Tennis Club on West 100th Street after 3PM on weekdays or after 11AM on weekends. Very reasonable rates. I know you [...]"},
-       u'title': u'Looking for an experienced Ping Pong partner - m4m (Upper West Side)',
-       u'title_detail': {u'base': u'http://newyork.craigslist.org/search/stp?format=rss',
-        u'language': None,
-        u'type': u'text/plain',
-        u'value': u'Looking for an experienced Ping Pong partner - m4m (Upper West Side)'},
-       u'updated': u'2016-04-12T03:10:50-04:00',
-       u'updated_parsed': time.struct_time(tm_year=2016, tm_mon=4, tm_mday=12, tm_hour=7, tm_min=10, tm_sec=50, tm_wday=1, tm_yday=103, tm_isdst=0)},
-      {u'dc_source': u'http://newyork.craigslist.org/brk/stp/5535161897.html',
-       u'dc_type': u'text',
-       u'enc_enclosure': {'resource': u'http://images.craigslist.org/00707_g2anUfgo3MN_300x300.jpg',
-        'type': u'image/jpeg'},
-       u'id': u'http://newyork.craigslist.org/brk/stp/5535161897.html',
-       u'language': u'en-us',
-       u'link': u'http://newyork.craigslist.org/brk/stp/5535161897.html',
-       u'links': [{u'href': u'http://newyork.craigslist.org/brk/stp/5535161897.html',
-         u'rel': u'alternate',
-         u'type': u'text/html'}],
-       u'published': u'2016-04-12T03:03:38-04:00',
-       u'published_parsed': time.struct_time(tm_year=2016, tm_mon=4, tm_mday=12, tm_hour=7, tm_min=3, tm_sec=38, tm_wday=1, tm_yday=103, tm_isdst=0),
-       u'rights': u'&copy; 2016 <span class="desktop">craigslist</span><span class="mobile">CL</span>',
-       u'rights_detail': {u'base': u'http://newyork.craigslist.org/search/stp?format=rss',
-        u'language': None,
-        u'type': u'text/html',
-        u'value': u'&copy; 2016 <span class="desktop">craigslist</span><span class="mobile">CL</span>'},
-       u'summary': u'Im actually wishing to meet an educated, well mannered, mature (mentally), beautiful (more as a person and not necessarily physically) woman. Im looking to be friends first and whatever happens later only the stars can tell. As for myself, Im sometim [...]',
-       u'summary_detail': {u'base': u'http://newyork.craigslist.org/search/stp?format=rss',
-        u'language': None,
-        u'type': u'text/html',
-        u'value': u'Im actually wishing to meet an educated, well mannered, mature (mentally), beautiful (more as a person and not necessarily physically) woman. Im looking to be friends first and whatever happens later only the stars can tell. As for myself, Im sometim [...]'},
-       u'title': u'wishing to meet a nice woman - m4w (ny)',
-       u'title_detail': {u'base': u'http://newyork.craigslist.org/search/stp?format=rss',
-        u'language': None,
-        u'type': u'text/plain',
-        u'value': u'wishing to meet a nice woman - m4w (ny)'},
-       u'updated': u'2016-04-12T03:03:38-04:00',
-       u'updated_parsed': time.struct_time(tm_year=2016, tm_mon=4, tm_mday=12, tm_hour=7, tm_min=3, tm_sec=38, tm_wday=1, tm_yday=103, tm_isdst=0)},
-      {u'dc_source': u'http://newyork.craigslist.org/mnh/stp/5528380576.html',
-       u'dc_type': u'text',
-       u'id': u'http://newyork.craigslist.org/mnh/stp/5528380576.html',
-       u'language': u'en-us',
-       u'link': u'http://newyork.craigslist.org/mnh/stp/5528380576.html',
-       u'links': [{u'href': u'http://newyork.craigslist.org/mnh/stp/5528380576.html',
-         u'rel': u'alternate',
-         u'type': u'text/html'}],
-       u'published': u'2016-04-12T02:46:07-04:00',
-       u'published_parsed': time.struct_time(tm_year=2016, tm_mon=4, tm_mday=12, tm_hour=6, tm_min=46, tm_sec=7, tm_wday=1, tm_yday=103, tm_isdst=0),
-       u'rights': u'&copy; 2016 <span class="desktop">craigslist</span><span class="mobile">CL</span>',
-       u'rights_detail': {u'base': u'http://newyork.craigslist.org/search/stp?format=rss',
-        u'language': None,
-        u'type': u'text/html',
-        u'value': u'&copy; 2016 <span class="desktop">craigslist</span><span class="mobile">CL</span>'},
-       u'summary': u'I want to go to the bar to have a drink. Who wants to join me? Manhattan or Queens convenient for me.',
-       u'summary_detail': {u'base': u'http://newyork.craigslist.org/search/stp?format=rss',
-        u'language': None,
-        u'type': u'text/html',
-        u'value': u'I want to go to the bar to have a drink. Who wants to join me? Manhattan or Queens convenient for me.'},
-       u'title': u'I want to go to the bar - m4w',
-       u'title_detail': {u'base': u'http://newyork.craigslist.org/search/stp?format=rss',
-        u'language': None,
-        u'type': u'text/plain',
-        u'value': u'I want to go to the bar - m4w'},
-       u'updated': u'2016-04-12T02:46:07-04:00',
-       u'updated_parsed': time.struct_time(tm_year=2016, tm_mon=4, tm_mday=12, tm_hour=6, tm_min=46, tm_sec=7, tm_wday=1, tm_yday=103, tm_isdst=0)},
-      {u'dc_source': u'http://newyork.craigslist.org/mnh/stp/5516183223.html',
-       u'dc_type': u'text',
-       u'enc_enclosure': {'resource': u'http://images.craigslist.org/00B0B_azn5htIpWlq_300x300.jpg',
-        'type': u'image/jpeg'},
-       u'id': u'http://newyork.craigslist.org/mnh/stp/5516183223.html',
-       u'language': u'en-us',
-       u'link': u'http://newyork.craigslist.org/mnh/stp/5516183223.html',
-       u'links': [{u'href': u'http://newyork.craigslist.org/mnh/stp/5516183223.html',
-         u'rel': u'alternate',
-         u'type': u'text/html'}],
-       u'published': u'2016-04-12T02:44:56-04:00',
-       u'published_parsed': time.struct_time(tm_year=2016, tm_mon=4, tm_mday=12, tm_hour=6, tm_min=44, tm_sec=56, tm_wday=1, tm_yday=103, tm_isdst=0),
-       u'rights': u'&copy; 2016 <span class="desktop">craigslist</span><span class="mobile">CL</span>',
-       u'rights_detail': {u'base': u'http://newyork.craigslist.org/search/stp?format=rss',
-        u'language': None,
-        u'type': u'text/html',
-        u'value': u'&copy; 2016 <span class="desktop">craigslist</span><span class="mobile">CL</span>'},
-       u'summary': u'I am a certified personal trainer available to come to you in house training. I am willing to meet you in your building gym. I have experience helping people reach your fitness goals whether that is weight loss, gain lean muscle, increase endurance,  [...]',
-       u'summary_detail': {u'base': u'http://newyork.craigslist.org/search/stp?format=rss',
-        u'language': None,
-        u'type': u'text/html',
-        u'value': u'I am a certified personal trainer available to come to you in house training. I am willing to meet you in your building gym. I have experience helping people reach your fitness goals whether that is weight loss, gain lean muscle, increase endurance,  [...]'},
-       u'title': u'Get n shape with certified personal trainer - m4w (Manhattan only)',
-       u'title_detail': {u'base': u'http://newyork.craigslist.org/search/stp?format=rss',
-        u'language': None,
-        u'type': u'text/plain',
-        u'value': u'Get n shape with certified personal trainer - m4w (Manhattan only)'},
-       u'updated': u'2016-04-12T02:44:56-04:00',
-       u'updated_parsed': time.struct_time(tm_year=2016, tm_mon=4, tm_mday=12, tm_hour=6, tm_min=44, tm_sec=56, tm_wday=1, tm_yday=103, tm_isdst=0)},
-      {u'dc_source': u'http://newyork.craigslist.org/mnh/stp/5516173415.html',
-       u'dc_type': u'text',
-       u'enc_enclosure': {'resource': u'http://images.craigslist.org/00B0B_azn5htIpWlq_300x300.jpg',
-        'type': u'image/jpeg'},
-       u'id': u'http://newyork.craigslist.org/mnh/stp/5516173415.html',
-       u'language': u'en-us',
-       u'link': u'http://newyork.craigslist.org/mnh/stp/5516173415.html',
-       u'links': [{u'href': u'http://newyork.craigslist.org/mnh/stp/5516173415.html',
-         u'rel': u'alternate',
-         u'type': u'text/html'}],
-       u'published': u'2016-04-12T02:44:50-04:00',
-       u'published_parsed': time.struct_time(tm_year=2016, tm_mon=4, tm_mday=12, tm_hour=6, tm_min=44, tm_sec=50, tm_wday=1, tm_yday=103, tm_isdst=0),
-       u'rights': u'&copy; 2016 <span class="desktop">craigslist</span><span class="mobile">CL</span>',
-       u'rights_detail': {u'base': u'http://newyork.craigslist.org/search/stp?format=rss',
-        u'language': None,
-        u'type': u'text/html',
-        u'value': u'&copy; 2016 <span class="desktop">craigslist</span><span class="mobile">CL</span>'},
-       u'summary': u'I am a certified personal trainer available to come to you in house training. I am willing to meet you in your building gym. I have experience helping people reach your fitness goals whether that is weight loss, gain lean muscle, increase endurance,  [...]',
-       u'summary_detail': {u'base': u'http://newyork.craigslist.org/search/stp?format=rss',
-        u'language': None,
-        u'type': u'text/html',
-        u'value': u'I am a certified personal trainer available to come to you in house training. I am willing to meet you in your building gym. I have experience helping people reach your fitness goals whether that is weight loss, gain lean muscle, increase endurance,  [...]'},
-       u'title': u'Get n shape with certified personal trainer - m4m (Manhattan only)',
-       u'title_detail': {u'base': u'http://newyork.craigslist.org/search/stp?format=rss',
-        u'language': None,
-        u'type': u'text/plain',
-        u'value': u'Get n shape with certified personal trainer - m4m (Manhattan only)'},
-       u'updated': u'2016-04-12T02:44:50-04:00',
-       u'updated_parsed': time.struct_time(tm_year=2016, tm_mon=4, tm_mday=12, tm_hour=6, tm_min=44, tm_sec=50, tm_wday=1, tm_yday=103, tm_isdst=0)},
-      {u'dc_source': u'http://newyork.craigslist.org/mnh/stp/5528589374.html',
-       u'dc_type': u'text',
-       u'enc_enclosure': {'resource': u'http://images.craigslist.org/00B0B_azn5htIpWlq_300x300.jpg',
-        'type': u'image/jpeg'},
-       u'id': u'http://newyork.craigslist.org/mnh/stp/5528589374.html',
-       u'language': u'en-us',
-       u'link': u'http://newyork.craigslist.org/mnh/stp/5528589374.html',
-       u'links': [{u'href': u'http://newyork.craigslist.org/mnh/stp/5528589374.html',
-         u'rel': u'alternate',
-         u'type': u'text/html'}],
-       u'published': u'2016-04-12T02:44:13-04:00',
-       u'published_parsed': time.struct_time(tm_year=2016, tm_mon=4, tm_mday=12, tm_hour=6, tm_min=44, tm_sec=13, tm_wday=1, tm_yday=103, tm_isdst=0),
-       u'rights': u'&copy; 2016 <span class="desktop">craigslist</span><span class="mobile">CL</span>',
-       u'rights_detail': {u'base': u'http://newyork.craigslist.org/search/stp?format=rss',
-        u'language': None,
-        u'type': u'text/html',
-        u'value': u'&copy; 2016 <span class="desktop">craigslist</span><span class="mobile">CL</span>'},
-       u'summary': u'I am a certified personal trainer available to come to you in house training. I am willing to meet you in your building gym , or home. I have experience helping people reach your fitness goals whether that is weight loss, gain lean muscle, increase e [...]',
-       u'summary_detail': {u'base': u'http://newyork.craigslist.org/search/stp?format=rss',
-        u'language': None,
-        u'type': u'text/html',
-        u'value': u'I am a certified personal trainer available to come to you in house training. I am willing to meet you in your building gym , or home. I have experience helping people reach your fitness goals whether that is weight loss, gain lean muscle, increase e [...]'},
-       u'title': u'Get n shape with certified personal trainer - m4t (NYC)',
-       u'title_detail': {u'base': u'http://newyork.craigslist.org/search/stp?format=rss',
-        u'language': None,
-        u'type': u'text/plain',
-        u'value': u'Get n shape with certified personal trainer - m4t (NYC)'},
-       u'updated': u'2016-04-12T02:44:13-04:00',
-       u'updated_parsed': time.struct_time(tm_year=2016, tm_mon=4, tm_mday=12, tm_hour=6, tm_min=44, tm_sec=13, tm_wday=1, tm_yday=103, tm_isdst=0)},
-      {u'dc_source': u'http://newyork.craigslist.org/mnh/stp/5530578096.html',
-       u'dc_type': u'text',
-       u'id': u'http://newyork.craigslist.org/mnh/stp/5530578096.html',
-       u'language': u'en-us',
-       u'link': u'http://newyork.craigslist.org/mnh/stp/5530578096.html',
-       u'links': [{u'href': u'http://newyork.craigslist.org/mnh/stp/5530578096.html',
-         u'rel': u'alternate',
-         u'type': u'text/html'}],
-       u'published': u'2016-04-12T02:33:29-04:00',
-       u'published_parsed': time.struct_time(tm_year=2016, tm_mon=4, tm_mday=12, tm_hour=6, tm_min=33, tm_sec=29, tm_wday=1, tm_yday=103, tm_isdst=0),
-       u'rights': u'&copy; 2016 <span class="desktop">craigslist</span><span class="mobile">CL</span>',
-       u'rights_detail': {u'base': u'http://newyork.craigslist.org/search/stp?format=rss',
-        u'language': None,
-        u'type': u'text/html',
-        u'value': u'&copy; 2016 <span class="desktop">craigslist</span><span class="mobile">CL</span>'},
-       u'summary': u'Who, me? Just wanting to get into your pants? No way! Im the nice guy that all the girls say they want, but never actually fuck! All you girls just want the "bad boys." Im so sick of having my hot friends cry on my shoulders about their asshole boyfr [...]',
-       u'summary_detail': {u'base': u'http://newyork.craigslist.org/search/stp?format=rss',
-        u'language': None,
-        u'type': u'text/html',
-        u'value': u'Who, me? Just wanting to get into your pants? No way! Im the nice guy that all the girls say they want, but never actually fuck! All you girls just want the "bad boys." Im so sick of having my hot friends cry on my shoulders about their asshole boyfr [...]'},
-       u'title': u'Nice guys still exist =} - m4w',
-       u'title_detail': {u'base': u'http://newyork.craigslist.org/search/stp?format=rss',
-        u'language': None,
-        u'type': u'text/plain',
-        u'value': u'Nice guys still exist =} - m4w'},
-       u'updated': u'2016-04-12T02:33:29-04:00',
-       u'updated_parsed': time.struct_time(tm_year=2016, tm_mon=4, tm_mday=12, tm_hour=6, tm_min=33, tm_sec=29, tm_wday=1, tm_yday=103, tm_isdst=0)},
-      {u'dc_source': u'http://newyork.craigslist.org/brx/stp/5535133231.html',
-       u'dc_type': u'text',
-       u'id': u'http://newyork.craigslist.org/brx/stp/5535133231.html',
-       u'language': u'en-us',
-       u'link': u'http://newyork.craigslist.org/brx/stp/5535133231.html',
-       u'links': [{u'href': u'http://newyork.craigslist.org/brx/stp/5535133231.html',
-         u'rel': u'alternate',
-         u'type': u'text/html'}],
-       u'published': u'2016-04-12T02:13:42-04:00',
-       u'published_parsed': time.struct_time(tm_year=2016, tm_mon=4, tm_mday=12, tm_hour=6, tm_min=13, tm_sec=42, tm_wday=1, tm_yday=103, tm_isdst=0),
-       u'rights': u'&copy; 2016 <span class="desktop">craigslist</span><span class="mobile">CL</span>',
-       u'rights_detail': {u'base': u'http://newyork.craigslist.org/search/stp?format=rss',
-        u'language': None,
-        u'type': u'text/html',
-        u'value': u'&copy; 2016 <span class="desktop">craigslist</span><span class="mobile">CL</span>'},
-       u'summary': u'Anybody need a text/phone buddy ? (Bronx) \nbody : average height : 5\'5" (165cm) \nI\'m going to keep this short and sweet .. \nI\'m just looking for someone who I can talk to .. Particularly someone going through a rough time and needs to talk as well as [...]',
-       u'summary_detail': {u'base': u'http://newyork.craigslist.org/search/stp?format=rss',
-        u'language': None,
-        u'type': u'text/html',
-        u'value': u'Anybody need a text/phone buddy ? (Bronx) \nbody : average height : 5\'5" (165cm) \nI\'m going to keep this short and sweet .. \nI\'m just looking for someone who I can talk to .. Particularly someone going through a rough time and needs to talk as well as [...]'},
-       u'title': u'Text/phone buddy - w4m',
-       u'title_detail': {u'base': u'http://newyork.craigslist.org/search/stp?format=rss',
-        u'language': None,
-        u'type': u'text/plain',
-        u'value': u'Text/phone buddy - w4m'},
-       u'updated': u'2016-04-12T02:13:42-04:00',
-       u'updated_parsed': time.struct_time(tm_year=2016, tm_mon=4, tm_mday=12, tm_hour=6, tm_min=13, tm_sec=42, tm_wday=1, tm_yday=103, tm_isdst=0)},
-      {u'dc_source': u'http://newyork.craigslist.org/lgi/stp/5535143149.html',
-       u'dc_type': u'text',
-       u'enc_enclosure': {'resource': u'http://images.craigslist.org/00Y0Y_7tyYSrpOkpK_300x300.jpg',
-        'type': u'image/jpeg'},
-       u'id': u'http://newyork.craigslist.org/lgi/stp/5535143149.html',
-       u'language': u'en-us',
-       u'link': u'http://newyork.craigslist.org/lgi/stp/5535143149.html',
-       u'links': [{u'href': u'http://newyork.craigslist.org/lgi/stp/5535143149.html',
-         u'rel': u'alternate',
-         u'type': u'text/html'}],
-       u'published': u'2016-04-12T02:10:03-04:00',
-       u'published_parsed': time.struct_time(tm_year=2016, tm_mon=4, tm_mday=12, tm_hour=6, tm_min=10, tm_sec=3, tm_wday=1, tm_yday=103, tm_isdst=0),
-       u'rights': u'&copy; 2016 <span class="desktop">craigslist</span><span class="mobile">CL</span>',
-       u'rights_detail': {u'base': u'http://newyork.craigslist.org/search/stp?format=rss',
-        u'language': None,
-        u'type': u'text/html',
-        u'value': u'&copy; 2016 <span class="desktop">craigslist</span><span class="mobile">CL</span>'},
-       u'summary': u"i'm 24 years old. Looking to get in better shape and think I need a little more of a push. I'm petite, just want to loose a few lbs/get fit. \nInto trying yoga or i belong to a planet fitness. \nI was thinking also of a possible naked yoga scenario...  [...]",
-       u'summary_detail': {u'base': u'http://newyork.craigslist.org/search/stp?format=rss',
-        u'language': None,
-        u'type': u'text/html',
-        u'value': u"i'm 24 years old. Looking to get in better shape and think I need a little more of a push. I'm petite, just want to loose a few lbs/get fit. \nInto trying yoga or i belong to a planet fitness. \nI was thinking also of a possible naked yoga scenario...  [...]"},
-       u'title': u'yoga or gym - w4m (farmgindale)',
-       u'title_detail': {u'base': u'http://newyork.craigslist.org/search/stp?format=rss',
-        u'language': None,
-        u'type': u'text/plain',
-        u'value': u'yoga or gym - w4m (farmgindale)'},
-       u'updated': u'2016-04-12T02:10:03-04:00',
-       u'updated_parsed': time.struct_time(tm_year=2016, tm_mon=4, tm_mday=12, tm_hour=6, tm_min=10, tm_sec=3, tm_wday=1, tm_yday=103, tm_isdst=0)},
-      {u'dc_source': u'http://newyork.craigslist.org/que/stp/5535137809.html',
-       u'dc_type': u'text',
-       u'enc_enclosure': {'resource': u'http://images.craigslist.org/00H0H_7MZbEltSCI0_300x300.jpg',
-        'type': u'image/jpeg'},
-       u'id': u'http://newyork.craigslist.org/que/stp/5535137809.html',
-       u'language': u'en-us',
-       u'link': u'http://newyork.craigslist.org/que/stp/5535137809.html',
-       u'links': [{u'href': u'http://newyork.craigslist.org/que/stp/5535137809.html',
-         u'rel': u'alternate',
-         u'type': u'text/html'}],
-       u'published': u'2016-04-12T01:57:35-04:00',
-       u'published_parsed': time.struct_time(tm_year=2016, tm_mon=4, tm_mday=12, tm_hour=5, tm_min=57, tm_sec=35, tm_wday=1, tm_yday=103, tm_isdst=0),
-       u'rights': u'&copy; 2016 <span class="desktop">craigslist</span><span class="mobile">CL</span>',
-       u'rights_detail': {u'base': u'http://newyork.craigslist.org/search/stp?format=rss',
-        u'language': None,
-        u'type': u'text/html',
-        u'value': u'&copy; 2016 <span class="desktop">craigslist</span><span class="mobile">CL</span>'},
-       u'summary': u"Hey I'm Phil... \nCollege student here in need of a mother or motherly woman to talk with... \nI never knew my birth mother and just feel I need someone I can vent to and maybe listen to me ... An older woman to give advice and be my friend...is there  [...]",
-       u'summary_detail': {u'base': u'http://newyork.craigslist.org/search/stp?format=rss',
-        u'language': None,
-        u'type': u'text/html',
-        u'value': u"Hey I'm Phil... \nCollege student here in need of a mother or motherly woman to talk with... \nI never knew my birth mother and just feel I need someone I can vent to and maybe listen to me ... An older woman to give advice and be my friend...is there  [...]"},
-       u'title': u'Mom where are you? - m4w (LIC)',
-       u'title_detail': {u'base': u'http://newyork.craigslist.org/search/stp?format=rss',
-        u'language': None,
-        u'type': u'text/plain',
-        u'value': u'Mom where are you? - m4w (LIC)'},
-       u'updated': u'2016-04-12T01:57:35-04:00',
-       u'updated_parsed': time.struct_time(tm_year=2016, tm_mon=4, tm_mday=12, tm_hour=5, tm_min=57, tm_sec=35, tm_wday=1, tm_yday=103, tm_isdst=0)},
-      {u'dc_source': u'http://newyork.craigslist.org/brk/stp/5530588045.html',
-       u'dc_type': u'text',
-       u'id': u'http://newyork.craigslist.org/brk/stp/5530588045.html',
-       u'language': u'en-us',
-       u'link': u'http://newyork.craigslist.org/brk/stp/5530588045.html',
-       u'links': [{u'href': u'http://newyork.craigslist.org/brk/stp/5530588045.html',
-         u'rel': u'alternate',
-         u'type': u'text/html'}],
-       u'published': u'2016-04-12T01:53:59-04:00',
-       u'published_parsed': time.struct_time(tm_year=2016, tm_mon=4, tm_mday=12, tm_hour=5, tm_min=53, tm_sec=59, tm_wday=1, tm_yday=103, tm_isdst=0),
-       u'rights': u'&copy; 2016 <span class="desktop">craigslist</span><span class="mobile">CL</span>',
-       u'rights_detail': {u'base': u'http://newyork.craigslist.org/search/stp?format=rss',
-        u'language': None,
-        u'type': u'text/html',
-        u'value': u'&copy; 2016 <span class="desktop">craigslist</span><span class="mobile">CL</span>'},
-       u'summary': u'Hi there \nI hope meeting a nice person I am 37yrs 160lbs Latin men only respond if you send your pic and stast Also looking for a good person no into drugs or nothing crazy \nI like to meet if you have 28 to 40 yrs \nThanks I hope see good news?',
-       u'summary_detail': {u'base': u'http://newyork.craigslist.org/search/stp?format=rss',
-        u'language': None,
-        u'type': u'text/html',
-        u'value': u'Hi there \nI hope meeting a nice person I am 37yrs 160lbs Latin men only respond if you send your pic and stast Also looking for a good person no into drugs or nothing crazy \nI like to meet if you have 28 to 40 yrs \nThanks I hope see good news?'},
-       u'title': u'Lookin to meet for friend - m4m (Brooklyn New York)',
-       u'title_detail': {u'base': u'http://newyork.craigslist.org/search/stp?format=rss',
-        u'language': None,
-        u'type': u'text/plain',
-        u'value': u'Lookin to meet for friend - m4m (Brooklyn New York)'},
-       u'updated': u'2016-04-12T01:53:59-04:00',
-       u'updated_parsed': time.struct_time(tm_year=2016, tm_mon=4, tm_mday=12, tm_hour=5, tm_min=53, tm_sec=59, tm_wday=1, tm_yday=103, tm_isdst=0)},
-      {u'dc_source': u'http://newyork.craigslist.org/mnh/stp/5535125307.html',
-       u'dc_type': u'text',
-       u'id': u'http://newyork.craigslist.org/mnh/stp/5535125307.html',
-       u'language': u'en-us',
-       u'link': u'http://newyork.craigslist.org/mnh/stp/5535125307.html',
-       u'links': [{u'href': u'http://newyork.craigslist.org/mnh/stp/5535125307.html',
-         u'rel': u'alternate',
-         u'type': u'text/html'}],
-       u'published': u'2016-04-12T01:53:14-04:00',
-       u'published_parsed': time.struct_time(tm_year=2016, tm_mon=4, tm_mday=12, tm_hour=5, tm_min=53, tm_sec=14, tm_wday=1, tm_yday=103, tm_isdst=0),
-       u'rights': u'&copy; 2016 <span class="desktop">craigslist</span><span class="mobile">CL</span>',
-       u'rights_detail': {u'base': u'http://newyork.craigslist.org/search/stp?format=rss',
-        u'language': None,
-        u'type': u'text/html',
-        u'value': u'&copy; 2016 <span class="desktop">craigslist</span><span class="mobile">CL</span>'},
-       u'summary': u"I'm awake and wondering if there is a normal Manhattan male that would appreciate a real offer :) I am an actual real female that's licensed as a massage therapist. I'm not stuck up or judgemental. I'm sexy pretty and friendly to party too. If you wo [...]",
-       u'summary_detail': {u'base': u'http://newyork.craigslist.org/search/stp?format=rss',
-        u'language': None,
-        u'type': u'text/html',
-        u'value': u"I'm awake and wondering if there is a normal Manhattan male that would appreciate a real offer :) I am an actual real female that's licensed as a massage therapist. I'm not stuck up or judgemental. I'm sexy pretty and friendly to party too. If you wo [...]"},
-       u'title': u'Just Seeing If This Is For Me :) - w4m (Chelsea)',
-       u'title_detail': {u'base': u'http://newyork.craigslist.org/search/stp?format=rss',
-        u'language': None,
-        u'type': u'text/plain',
-        u'value': u'Just Seeing If This Is For Me :) - w4m (Chelsea)'},
-       u'updated': u'2016-04-12T01:53:14-04:00',
-       u'updated_parsed': time.struct_time(tm_year=2016, tm_mon=4, tm_mday=12, tm_hour=5, tm_min=53, tm_sec=14, tm_wday=1, tm_yday=103, tm_isdst=0)},
-      {u'dc_source': u'http://newyork.craigslist.org/que/stp/5535129138.html',
-       u'dc_type': u'text',
-       u'id': u'http://newyork.craigslist.org/que/stp/5535129138.html',
-       u'language': u'en-us',
-       u'link': u'http://newyork.craigslist.org/que/stp/5535129138.html',
-       u'links': [{u'href': u'http://newyork.craigslist.org/que/stp/5535129138.html',
-         u'rel': u'alternate',
-         u'type': u'text/html'}],
-       u'published': u'2016-04-12T01:39:07-04:00',
-       u'published_parsed': time.struct_time(tm_year=2016, tm_mon=4, tm_mday=12, tm_hour=5, tm_min=39, tm_sec=7, tm_wday=1, tm_yday=103, tm_isdst=0),
-       u'rights': u'&copy; 2016 <span class="desktop">craigslist</span><span class="mobile">CL</span>',
-       u'rights_detail': {u'base': u'http://newyork.craigslist.org/search/stp?format=rss',
-        u'language': None,
-        u'type': u'text/html',
-        u'value': u'&copy; 2016 <span class="desktop">craigslist</span><span class="mobile">CL</span>'},
-       u'summary': u'Total power exchange slave boi wanted by me your young nerdy black Master. \nYou live to open home, worship, serve, provide, please, love for obey and more non sexually.',
-       u'summary_detail': {u'base': u'http://newyork.craigslist.org/search/stp?format=rss',
-        u'language': None,
-        u'type': u'text/html',
-        u'value': u'Total power exchange slave boi wanted by me your young nerdy black Master. \nYou live to open home, worship, serve, provide, please, love for obey and more non sexually.'},
-       u'title': u'Total power exchange slave boi - m4m (Queens)',
-       u'title_detail': {u'base': u'http://newyork.craigslist.org/search/stp?format=rss',
-        u'language': None,
-        u'type': u'text/plain',
-        u'value': u'Total power exchange slave boi - m4m (Queens)'},
-       u'updated': u'2016-04-12T01:39:07-04:00',
-       u'updated_parsed': time.struct_time(tm_year=2016, tm_mon=4, tm_mday=12, tm_hour=5, tm_min=39, tm_sec=7, tm_wday=1, tm_yday=103, tm_isdst=0)},
-      {u'dc_source': u'http://newyork.craigslist.org/brk/stp/5535108078.html',
-       u'dc_type': u'text',
-       u'enc_enclosure': {'resource': u'http://images.craigslist.org/00g0g_khjcjDn7MY2_300x300.jpg',
-        'type': u'image/jpeg'},
-       u'id': u'http://newyork.craigslist.org/brk/stp/5535108078.html',
-       u'language': u'en-us',
-       u'link': u'http://newyork.craigslist.org/brk/stp/5535108078.html',
-       u'links': [{u'href': u'http://newyork.craigslist.org/brk/stp/5535108078.html',
-         u'rel': u'alternate',
-         u'type': u'text/html'}],
-       u'published': u'2016-04-12T01:37:14-04:00',
-       u'published_parsed': time.struct_time(tm_year=2016, tm_mon=4, tm_mday=12, tm_hour=5, tm_min=37, tm_sec=14, tm_wday=1, tm_yday=103, tm_isdst=0),
-       u'rights': u'&copy; 2016 <span class="desktop">craigslist</span><span class="mobile">CL</span>',
-       u'rights_detail': {u'base': u'http://newyork.craigslist.org/search/stp?format=rss',
-        u'language': None,
-        u'type': u'text/html',
-        u'value': u'&copy; 2016 <span class="desktop">craigslist</span><span class="mobile">CL</span>'},
-       u'summary': u'My name is mark im 35 looking for a nice woman so i could start a family with i been single for almost a year now so if that one let me know i only do girls are for real please no games',
-       u'summary_detail': {u'base': u'http://newyork.craigslist.org/search/stp?format=rss',
-        u'language': None,
-        u'type': u'text/html',
-        u'value': u'My name is mark im 35 looking for a nice woman so i could start a family with i been single for almost a year now so if that one let me know i only do girls are for real please no games'},
-       u'title': u'The man - m4w (Brooklyn)',
-       u'title_detail': {u'base': u'http://newyork.craigslist.org/search/stp?format=rss',
-        u'language': None,
-        u'type': u'text/plain',
-        u'value': u'The man - m4w (Brooklyn)'},
-       u'updated': u'2016-04-12T01:37:14-04:00',
-       u'updated_parsed': time.struct_time(tm_year=2016, tm_mon=4, tm_mday=12, tm_hour=5, tm_min=37, tm_sec=14, tm_wday=1, tm_yday=103, tm_isdst=0)}],
+       u'updated_parsed': time.struct_time(tm_year=2016, tm_mon=4, tm_mday=12, tm_hour=7, tm_min=20, tm_sec=29, tm_wday=1, tm_yday=103, tm_isdst=0)}],
      'feed': {u'author': u'robot@craigslist.org',
       u'author_detail': {u'email': u'robot@craigslist.org'},
       u'authors': [{u'email': u'robot@craigslist.org'}],
@@ -870,7 +862,7 @@ ny
         u'type': u'text/html'}],
       u'publisher': u'robot@craigslist.org',
       u'publisher_detail': {u'email': u'robot@craigslist.org'},
-      u'rdf_li': {'rdf:resource': u'http://newyork.craigslist.org/brk/stp/5535108078.html'},
+      u'rdf_li': {'rdf:resource': u'http://newyork.craigslist.org/brk/stp/5535167105.html'},
       u'rdf_seq': u'',
       u'rights': u'&copy; 2016 <span class="desktop">craigslist</span><span class="mobile">CL</span>',
       u'rights_detail': {u'base': u'http://newyork.craigslist.org/search/stp?format=rss',
@@ -882,7 +874,7 @@ ny
        u'language': None,
        u'type': u'text/html',
        u'value': u''},
-      u'sy_updatebase': u'2016-04-12T08:05:09-04:00',
+      u'sy_updatebase': u'2016-04-12T09:15:29-04:00',
       u'sy_updatefrequency': u'1',
       u'sy_updateperiod': u'hourly',
       u'title': u'craigslist new york | strictly platonic search',
@@ -892,11 +884,11 @@ ny
        u'value': u'craigslist new york | strictly platonic search'}},
      'headers': {'cache-control': 'max-age=900, public',
       'content-encoding': 'gzip',
-      'content-length': '5344',
+      'content-length': '5213',
       'content-type': 'application/rss+xml; charset=utf-8',
-      'date': 'Tue, 12 Apr 2016 12:05:09 GMT',
-      'expires': 'Tue, 12 Apr 2016 12:20:09 GMT',
-      'last-modified': 'Tue, 12 Apr 2016 12:05:09 GMT',
+      'date': 'Tue, 12 Apr 2016 13:15:29 GMT',
+      'expires': 'Tue, 12 Apr 2016 13:30:29 GMT',
+      'last-modified': 'Tue, 12 Apr 2016 13:15:29 GMT',
       'server': 'Apache',
       'vary': 'Accept-Encoding',
       'x-frame-options': 'SAMEORIGIN'},
@@ -912,8 +904,8 @@ ny
       u'sy': u'http://purl.org/rss/1.0/modules/syndication/',
       u'taxo': u'http://purl.org/rss/1.0/modules/taxonomy/'},
      u'status': 301,
-     u'updated': 'Tue, 12 Apr 2016 12:05:09 GMT',
-     u'updated_parsed': time.struct_time(tm_year=2016, tm_mon=4, tm_mday=12, tm_hour=12, tm_min=5, tm_sec=9, tm_wday=1, tm_yday=103, tm_isdst=0),
+     u'updated': 'Tue, 12 Apr 2016 13:15:29 GMT',
+     u'updated_parsed': time.struct_time(tm_year=2016, tm_mon=4, tm_mday=12, tm_hour=13, tm_min=15, tm_sec=29, tm_wday=1, tm_yday=103, tm_isdst=0),
      u'version': u'rss10'}
 
 
@@ -931,7 +923,34 @@ sf
 
     {'bozo': False,
      u'encoding': u'utf-8',
-     'entries': [{u'dc_source': u'http://sfbay.craigslist.org/eby/stp/5535190268.html',
+     'entries': [{u'dc_source': u'http://sfbay.craigslist.org/sby/stp/5535237202.html',
+       u'dc_type': u'text',
+       u'id': u'http://sfbay.craigslist.org/sby/stp/5535237202.html',
+       u'language': u'en-us',
+       u'link': u'http://sfbay.craigslist.org/sby/stp/5535237202.html',
+       u'links': [{u'href': u'http://sfbay.craigslist.org/sby/stp/5535237202.html',
+         u'rel': u'alternate',
+         u'type': u'text/html'}],
+       u'published': u'2016-04-12T04:15:42-07:00',
+       u'published_parsed': time.struct_time(tm_year=2016, tm_mon=4, tm_mday=12, tm_hour=11, tm_min=15, tm_sec=42, tm_wday=1, tm_yday=103, tm_isdst=0),
+       u'rights': u'&copy; 2016 <span class="desktop">craigslist</span><span class="mobile">CL</span>',
+       u'rights_detail': {u'base': u'http://sfbay.craigslist.org/search/stp?format=rss',
+        u'language': None,
+        u'type': u'text/html',
+        u'value': u'&copy; 2016 <span class="desktop">craigslist</span><span class="mobile">CL</span>'},
+       u'summary': u"When I read these posts, or read responses to these posts, I always get the sense of deja vu. Why not start this relationship off by telling each other three things about eachother other people wouldn't think to say. (Do you know how many thirty-some [...]",
+       u'summary_detail': {u'base': u'http://sfbay.craigslist.org/search/stp?format=rss',
+        u'language': None,
+        u'type': u'text/html',
+        u'value': u"When I read these posts, or read responses to these posts, I always get the sense of deja vu. Why not start this relationship off by telling each other three things about eachother other people wouldn't think to say. (Do you know how many thirty-some [...]"},
+       u'title': u'Tell me three things - w4m (sunnyvale)',
+       u'title_detail': {u'base': u'http://sfbay.craigslist.org/search/stp?format=rss',
+        u'language': None,
+        u'type': u'text/plain',
+        u'value': u'Tell me three things - w4m (sunnyvale)'},
+       u'updated': u'2016-04-12T04:15:42-07:00',
+       u'updated_parsed': time.struct_time(tm_year=2016, tm_mon=4, tm_mday=12, tm_hour=11, tm_min=15, tm_sec=42, tm_wday=1, tm_yday=103, tm_isdst=0)},
+      {u'dc_source': u'http://sfbay.craigslist.org/eby/stp/5535190268.html',
        u'dc_type': u'text',
        u'id': u'http://sfbay.craigslist.org/eby/stp/5535190268.html',
        u'language': u'en-us',
@@ -1586,36 +1605,7 @@ sf
         u'type': u'text/plain',
         u'value': u'Any  older  ladies out there seeking friends? - w4w (san jose east)'},
        u'updated': u'2016-04-11T22:48:50-07:00',
-       u'updated_parsed': time.struct_time(tm_year=2016, tm_mon=4, tm_mday=12, tm_hour=5, tm_min=48, tm_sec=50, tm_wday=1, tm_yday=103, tm_isdst=0)},
-      {u'dc_source': u'http://sfbay.craigslist.org/eby/stp/5512980370.html',
-       u'dc_type': u'text',
-       u'enc_enclosure': {'resource': u'http://images.craigslist.org/00X0X_jSTrjYO2dxj_300x300.jpg',
-        'type': u'image/jpeg'},
-       u'id': u'http://sfbay.craigslist.org/eby/stp/5512980370.html',
-       u'language': u'en-us',
-       u'link': u'http://sfbay.craigslist.org/eby/stp/5512980370.html',
-       u'links': [{u'href': u'http://sfbay.craigslist.org/eby/stp/5512980370.html',
-         u'rel': u'alternate',
-         u'type': u'text/html'}],
-       u'published': u'2016-04-11T22:39:31-07:00',
-       u'published_parsed': time.struct_time(tm_year=2016, tm_mon=4, tm_mday=12, tm_hour=5, tm_min=39, tm_sec=31, tm_wday=1, tm_yday=103, tm_isdst=0),
-       u'rights': u'&copy; 2016 <span class="desktop">craigslist</span><span class="mobile">CL</span>',
-       u'rights_detail': {u'base': u'http://sfbay.craigslist.org/search/stp?format=rss',
-        u'language': None,
-        u'type': u'text/html',
-        u'value': u'&copy; 2016 <span class="desktop">craigslist</span><span class="mobile">CL</span>'},
-       u'summary': u'I am a husband and father who enjoys receiving massage. I admire and value the sacred space created by practitioners, to heal the body and quiet the mind. Bodywork has proven integral to my well being, as both a pleasant and practical form of facilit [...]',
-       u'summary_detail': {u'base': u'http://sfbay.craigslist.org/search/stp?format=rss',
-        u'language': None,
-        u'type': u'text/html',
-        u'value': u'I am a husband and father who enjoys receiving massage. I admire and value the sacred space created by practitioners, to heal the body and quiet the mind. Bodywork has proven integral to my well being, as both a pleasant and practical form of facilit [...]'},
-       u'title': u'Attentive Attention - m4w (oakland lake merritt / grand)',
-       u'title_detail': {u'base': u'http://sfbay.craigslist.org/search/stp?format=rss',
-        u'language': None,
-        u'type': u'text/plain',
-        u'value': u'Attentive Attention - m4w (oakland lake merritt / grand)'},
-       u'updated': u'2016-04-11T22:39:31-07:00',
-       u'updated_parsed': time.struct_time(tm_year=2016, tm_mon=4, tm_mday=12, tm_hour=5, tm_min=39, tm_sec=31, tm_wday=1, tm_yday=103, tm_isdst=0)}],
+       u'updated_parsed': time.struct_time(tm_year=2016, tm_mon=4, tm_mday=12, tm_hour=5, tm_min=48, tm_sec=50, tm_wday=1, tm_yday=103, tm_isdst=0)}],
      'feed': {u'author': u'robot@craigslist.org',
       u'author_detail': {u'email': u'robot@craigslist.org'},
       u'authors': [{u'email': u'robot@craigslist.org'}],
@@ -1629,7 +1619,7 @@ sf
         u'type': u'text/html'}],
       u'publisher': u'robot@craigslist.org',
       u'publisher_detail': {u'email': u'robot@craigslist.org'},
-      u'rdf_li': {'rdf:resource': u'http://sfbay.craigslist.org/eby/stp/5512980370.html'},
+      u'rdf_li': {'rdf:resource': u'http://sfbay.craigslist.org/sby/stp/5535133755.html'},
       u'rdf_seq': u'',
       u'rights': u'&copy; 2016 <span class="desktop">craigslist</span><span class="mobile">CL</span>',
       u'rights_detail': {u'base': u'http://sfbay.craigslist.org/search/stp?format=rss',
@@ -1641,7 +1631,7 @@ sf
        u'language': None,
        u'type': u'text/html',
        u'value': u''},
-      u'sy_updatebase': u'2016-04-12T05:10:02-07:00',
+      u'sy_updatebase': u'2016-04-12T06:15:30-07:00',
       u'sy_updatefrequency': u'1',
       u'sy_updateperiod': u'hourly',
       u'title': u'craigslist SF bay area | strictly platonic search',
@@ -1651,11 +1641,11 @@ sf
        u'value': u'craigslist SF bay area | strictly platonic search'}},
      'headers': {'cache-control': 'max-age=900, public',
       'content-encoding': 'gzip',
-      'content-length': '5514',
+      'content-length': '5457',
       'content-type': 'application/rss+xml; charset=utf-8',
-      'date': 'Tue, 12 Apr 2016 12:10:02 GMT',
-      'expires': 'Tue, 12 Apr 2016 12:25:02 GMT',
-      'last-modified': 'Tue, 12 Apr 2016 12:10:02 GMT',
+      'date': 'Tue, 12 Apr 2016 13:15:30 GMT',
+      'expires': 'Tue, 12 Apr 2016 13:30:30 GMT',
+      'last-modified': 'Tue, 12 Apr 2016 13:15:30 GMT',
       'server': 'Apache',
       'vary': 'Accept-Encoding',
       'x-frame-options': 'SAMEORIGIN'},
@@ -1671,8 +1661,8 @@ sf
       u'sy': u'http://purl.org/rss/1.0/modules/syndication/',
       u'taxo': u'http://purl.org/rss/1.0/modules/taxonomy/'},
      u'status': 301,
-     u'updated': 'Tue, 12 Apr 2016 12:10:02 GMT',
-     u'updated_parsed': time.struct_time(tm_year=2016, tm_mon=4, tm_mday=12, tm_hour=12, tm_min=10, tm_sec=2, tm_wday=1, tm_yday=103, tm_isdst=0),
+     u'updated': 'Tue, 12 Apr 2016 13:15:30 GMT',
+     u'updated_parsed': time.struct_time(tm_year=2016, tm_mon=4, tm_mday=12, tm_hour=13, tm_min=15, tm_sec=30, tm_wday=1, tm_yday=103, tm_isdst=0),
      u'version': u'rss10'}
 
 
@@ -1684,7 +1674,7 @@ sf
 vocabList, pSF, pNY = naivebayes.localWords(ny, sf)
 ```
 
-    the error rate is:  0.25
+    the error rate is:  0.6
     
 
 
@@ -1694,10 +1684,1259 @@ vocabList, pSF, pNY = naivebayes.localWords(ny, sf)
 vocabList, pSF, pNY = naivebayes.localWords(ny, sf)
 ```
 
-    the error rate is:  0.45
+    the error rate is:  0.55
     
 
 
 ```python
+# 각 지역에서 자주 사용되는 것으로 추정되는 단어들을 출력합니다.
 
+naivebayes.getTopWords(ny, sf)
 ```
+
+    the error rate is:  0.35
+    ***This is San Francisco***
+    twenty
+    hey
+    tall
+    seeking
+    why
+    pretty
+    seems
+    has
+    trying
+    when
+    all
+    befriend
+    chinese
+    lack
+    four
+    asian
+    grateful
+    skin
+    milk
+    issues
+    relationships
+    buddy
+    father
+    young
+    send
+    masculine
+    under
+    smile
+    must
+    brown
+    woman
+    very
+    choice
+    every
+    decide
+    telling
+    word
+    cool
+    school
+    respectful
+    compassionate
+    posts
+    try
+    quick
+    guy
+    enjoy
+    says
+    speci
+    tec
+    past
+    across
+    likely
+    professionally
+    click
+    depression
+    drinks
+    even
+    what
+    abs
+    reply
+    compan
+    seeks
+    hasn
+    full
+    unsure
+    desires
+    ranged
+    men
+    wild
+    let
+    others
+    clicked
+    along
+    strong
+    change
+    fantasies
+    dry
+    great
+    kids
+    northern
+    thirty
+    pics
+    mentor
+    social
+    makes
+    massage
+    retired
+    secure
+    hiking
+    extra
+    prefer
+    private
+    mikesoriano18
+    names
+    support
+    flagging
+    confidence
+    from
+    positive
+    dude
+    arms
+    next
+    live
+    raquetball
+    music
+    taken
+    type
+    until
+    today
+    more
+    females
+    posting
+    successful
+    company
+    yahoo
+    aware
+    warm
+    adult
+    hold
+    women
+    involve
+    keeping
+    balls
+    join
+    room
+    car
+    work
+    soul
+    movies
+    nine
+    making
+    male
+    viagr
+    performer
+    want
+    give
+    share
+    high
+    something
+    masculin
+    sense
+    times
+    drama
+    needs
+    productive
+    dinners
+    six
+    write
+    hot
+    low
+    answer
+    nyc
+    beach
+    indian
+    petite
+    stop
+    mad
+    plann
+    guys
+    response
+    man
+    short
+    maybe
+    explicit
+    childhood
+    wink
+    maintain
+    allow
+    keeps
+    order
+    talk
+    cute
+    mexican
+    help
+    over
+    years
+    playful
+    held
+    including
+    cold
+    horny
+    before
+    perfect
+    superior
+    roomates
+    fit
+    located
+    somewhere
+    interesting
+    appetizers
+    actually
+    late
+    willing
+    jucy
+    wouldn
+    them
+    somebody
+    food
+    jerking
+    safe
+    snapchat
+    they
+    hands
+    now
+    discuss
+    term
+    gets
+    grammar
+    name
+    always
+    goofy
+    each
+    went
+    friendship
+    side
+    mean
+    weight
+    doing
+    house
+    hard
+    yeah
+    used
+    connect
+    year
+    our
+    whit
+    bay
+    really
+    living
+    open
+    motel
+    since
+    seriously
+    mate
+    got
+    lmt
+    free
+    quite
+    ect
+    california
+    puy
+    put
+    hand
+    care
+    visit
+    could
+    keep
+    american
+    place
+    isn
+    deja
+    think
+    south
+    tennis
+    platonic
+    feel
+    encouraging
+    one
+    feet
+    rant
+    done
+    lol
+    owner
+    impossible
+    thick
+    miss
+    little
+    toy
+    start
+    weekdays
+    their
+    master
+    too
+    white
+    listen
+    gripping
+    hug
+    relationship
+    serve
+    part
+    believe
+    king
+    kind
+    anxiety
+    unfortunately
+    midtown
+    future
+    silly
+    were
+    lbs
+    mine
+    comfortable
+    tonight
+    say
+    hangout
+    pay
+    need
+    any
+    lie
+    offering
+    person
+    self
+    cope
+    able
+    lik
+    also
+    take
+    proble
+    online
+    wanting
+    latino
+    play
+    experienced
+    opposite
+    park
+    most
+    eight
+    plan
+    superhero
+    extremely
+    don
+    eachother
+    drive
+    clean
+    businessman
+    fact
+    shop
+    golf
+    random
+    effo
+    find
+    busy
+    grabbed
+    spite
+    title
+    dick
+    unhappy
+    crime
+    athletic
+    only
+    black
+    employed
+    local
+    hope
+    hip
+    plate
+    his
+    hiv
+    means
+    hopefully
+    watch
+    expectation
+    truly
+    listener
+    despite
+    during
+    having
+    footrest
+    beac
+    girl
+    course
+    married
+    patch
+    bad
+    stuff
+    she
+    through
+    grab
+    respond
+    set
+    sex
+    see
+    prosper
+    close
+    yes
+    subject
+    stats
+    movie
+    exchange
+    please
+    worship
+    between
+    probably
+    encounters
+    email
+    never
+    jobs
+    responses
+    missing
+    zombie_poppet
+    screen
+    attention
+    key
+    come
+    problem
+    limits
+    many
+    adventures
+    drug
+    etc
+    games
+    alot
+    focused
+    whole
+    bell
+    color
+    sweet
+    motivation
+    whatever
+    100mg
+    simply
+    laugh
+    100
+    better
+    basis
+    west
+    due
+    been
+    much
+    far
+    bbw
+    proposal
+    direction
+    educated
+    shopping
+    gay
+    offered
+    wet
+    new
+    understand
+    muscular
+    smoking
+    those
+    honest
+    myself
+    mega
+    these
+    straight
+    value
+    choices
+    while
+    ongoing
+    joke
+    situation
+    property
+    pack
+    seven
+    hoping
+    coffee
+    respected
+    someone
+    128529
+    ready
+    grown
+    funny
+    things
+    make
+    same
+    trip
+    party
+    several
+    week
+    practice
+    hang
+    holidays
+    kik
+    cleaning
+    student
+    frequently
+    warming
+    dark
+    off
+    vacant
+    thought
+    hispanic
+    someo
+    english
+    spend
+    tha
+    meet
+    breastfeeding
+    summer
+    kiss
+    being
+    descreete
+    shape
+    skill
+    yet
+    generous
+    other
+    attractive
+    easy
+    citizen
+    smart
+    hater
+    real
+    around
+    read
+    big
+    couple
+    laughed
+    possible
+    early
+    discreet
+    five
+    apt
+    listening
+    bit
+    lady
+    desire
+    helpful
+    either
+    passionate
+    two
+    because
+    old
+    people
+    absolutely
+    some
+    back
+    library
+    understood
+    curious
+    165
+    happens
+    scale
+    though
+    creative
+    connecting
+    subjet
+    three
+    loocking
+    business
+    asap
+    host
+    post
+    stage
+    about
+    working
+    wouldnt
+    getting
+    vaginas
+    favorite
+    trustworthy
+    dinner
+    plus
+    afternoon
+    act
+    wanna
+    own
+    techie
+    pussy
+    into
+    articulate
+    negative
+    right
+    sports
+    subj
+    area
+    vallej
+    housing
+    there
+    long
+    experices
+    patna
+    way
+    forward
+    bored
+    was
+    buy
+    inches
+    becoming
+    gain
+    mike_kent18
+    line
+    romantic
+    places
+    morning
+    attached
+    tell
+    mature
+    embed
+    clear
+    trim
+    pic
+    doesn
+    disease
+    single
+    lived
+    chat
+    teased
+    flock
+    shit
+    fill
+    again
+    spell
+    relaxing
+    lately
+    tight
+    interested
+    details
+    evenings
+    out
+    manhattan
+    nice
+    draw
+    eyes
+    flirtatiou
+    bundle
+    professional
+    friends
+    younger
+    deranged_lizzie_borden187
+    rich
+    age
+    together
+    dudedette
+    curvy
+    push
+    hello
+    minister
+    ***This is New York***
+    let
+    dude
+    viagr
+    located
+    seeking
+    midtown
+    sweet
+    old
+    all
+    befriend
+    chinese
+    lack
+    four
+    asian
+    grateful
+    skin
+    milk
+    issues
+    relationships
+    buddy
+    father
+    young
+    send
+    masculine
+    under
+    smile
+    must
+    brown
+    woman
+    very
+    choice
+    every
+    decide
+    telling
+    word
+    cool
+    school
+    respectful
+    compassionate
+    posts
+    try
+    quick
+    guy
+    enjoy
+    says
+    speci
+    tec
+    past
+    across
+    likely
+    professionally
+    click
+    depression
+    drinks
+    even
+    what
+    abs
+    reply
+    compan
+    seeks
+    hasn
+    full
+    unsure
+    desires
+    ranged
+    men
+    wild
+    others
+    clicked
+    along
+    strong
+    change
+    fantasies
+    dry
+    great
+    kids
+    northern
+    thirty
+    pics
+    mentor
+    social
+    makes
+    massage
+    retired
+    secure
+    hiking
+    extra
+    prefer
+    private
+    mikesoriano18
+    names
+    support
+    flagging
+    confidence
+    from
+    positive
+    arms
+    next
+    live
+    raquetball
+    music
+    taken
+    type
+    until
+    today
+    more
+    females
+    posting
+    successful
+    company
+    yahoo
+    aware
+    warm
+    adult
+    hold
+    women
+    involve
+    keeping
+    balls
+    join
+    room
+    car
+    work
+    soul
+    movies
+    nine
+    making
+    male
+    performer
+    want
+    give
+    share
+    high
+    something
+    masculin
+    sense
+    times
+    drama
+    needs
+    productive
+    dinners
+    six
+    write
+    hot
+    low
+    answer
+    nyc
+    beach
+    indian
+    petite
+    stop
+    mad
+    plann
+    guys
+    response
+    man
+    short
+    maybe
+    explicit
+    childhood
+    wink
+    maintain
+    allow
+    keeps
+    tall
+    order
+    talk
+    cute
+    mexican
+    help
+    over
+    years
+    playful
+    held
+    including
+    cold
+    horny
+    before
+    perfect
+    superior
+    roomates
+    fit
+    somewhere
+    interesting
+    appetizers
+    actually
+    late
+    willing
+    jucy
+    wouldn
+    them
+    somebody
+    food
+    jerking
+    safe
+    snapchat
+    they
+    hands
+    now
+    discuss
+    term
+    gets
+    grammar
+    name
+    always
+    goofy
+    each
+    went
+    friendship
+    side
+    mean
+    weight
+    doing
+    house
+    hard
+    yeah
+    used
+    connect
+    year
+    our
+    whit
+    bay
+    really
+    living
+    open
+    motel
+    since
+    seriously
+    mate
+    got
+    lmt
+    free
+    quite
+    ect
+    california
+    puy
+    put
+    hand
+    care
+    visit
+    could
+    keep
+    american
+    place
+    isn
+    deja
+    think
+    south
+    tennis
+    platonic
+    feel
+    encouraging
+    one
+    feet
+    rant
+    done
+    lol
+    owner
+    impossible
+    thick
+    miss
+    little
+    toy
+    start
+    twenty
+    weekdays
+    their
+    master
+    too
+    white
+    listen
+    gripping
+    hug
+    relationship
+    serve
+    part
+    believe
+    king
+    kind
+    anxiety
+    unfortunately
+    future
+    silly
+    were
+    lbs
+    mine
+    comfortable
+    tonight
+    say
+    hangout
+    pay
+    need
+    any
+    lie
+    offering
+    person
+    self
+    cope
+    able
+    lik
+    also
+    take
+    proble
+    online
+    wanting
+    latino
+    play
+    experienced
+    opposite
+    park
+    most
+    eight
+    plan
+    superhero
+    extremely
+    why
+    don
+    eachother
+    drive
+    clean
+    businessman
+    fact
+    shop
+    golf
+    random
+    effo
+    find
+    busy
+    grabbed
+    spite
+    title
+    dick
+    unhappy
+    crime
+    athletic
+    only
+    black
+    pretty
+    employed
+    local
+    hope
+    hip
+    plate
+    his
+    hiv
+    means
+    hopefully
+    watch
+    expectation
+    truly
+    listener
+    despite
+    during
+    having
+    footrest
+    beac
+    girl
+    course
+    married
+    patch
+    bad
+    stuff
+    she
+    through
+    grab
+    respond
+    set
+    sex
+    see
+    prosper
+    close
+    yes
+    subject
+    stats
+    movie
+    exchange
+    please
+    worship
+    between
+    probably
+    encounters
+    email
+    never
+    jobs
+    responses
+    missing
+    zombie_poppet
+    screen
+    attention
+    key
+    come
+    problem
+    limits
+    many
+    adventures
+    drug
+    etc
+    games
+    alot
+    focused
+    whole
+    bell
+    color
+    motivation
+    whatever
+    100mg
+    simply
+    laugh
+    100
+    better
+    basis
+    west
+    due
+    been
+    much
+    far
+    bbw
+    proposal
+    direction
+    educated
+    shopping
+    gay
+    offered
+    wet
+    new
+    understand
+    muscular
+    smoking
+    those
+    honest
+    myself
+    mega
+    these
+    straight
+    value
+    choices
+    while
+    ongoing
+    joke
+    situation
+    property
+    pack
+    seven
+    hoping
+    coffee
+    respected
+    someone
+    128529
+    ready
+    grown
+    funny
+    things
+    make
+    same
+    trip
+    party
+    several
+    week
+    practice
+    hang
+    holidays
+    kik
+    cleaning
+    student
+    frequently
+    warming
+    dark
+    off
+    vacant
+    thought
+    hispanic
+    someo
+    english
+    spend
+    tha
+    meet
+    breastfeeding
+    summer
+    kiss
+    being
+    descreete
+    shape
+    skill
+    yet
+    generous
+    seems
+    other
+    attractive
+    easy
+    citizen
+    has
+    smart
+    hater
+    real
+    around
+    read
+    big
+    couple
+    laughed
+    possible
+    early
+    discreet
+    five
+    apt
+    listening
+    bit
+    lady
+    desire
+    helpful
+    either
+    passionate
+    two
+    because
+    people
+    absolutely
+    some
+    back
+    library
+    understood
+    curious
+    165
+    happens
+    scale
+    though
+    creative
+    connecting
+    subjet
+    three
+    loocking
+    business
+    asap
+    host
+    post
+    stage
+    about
+    working
+    wouldnt
+    getting
+    vaginas
+    favorite
+    trustworthy
+    dinner
+    plus
+    afternoon
+    act
+    wanna
+    own
+    techie
+    pussy
+    into
+    articulate
+    negative
+    right
+    sports
+    subj
+    area
+    vallej
+    housing
+    there
+    hey
+    long
+    experices
+    patna
+    way
+    forward
+    bored
+    was
+    buy
+    inches
+    becoming
+    gain
+    mike_kent18
+    line
+    trying
+    romantic
+    places
+    morning
+    attached
+    tell
+    mature
+    embed
+    clear
+    trim
+    pic
+    doesn
+    disease
+    single
+    lived
+    chat
+    teased
+    flock
+    shit
+    fill
+    again
+    spell
+    relaxing
+    when
+    lately
+    tight
+    interested
+    details
+    evenings
+    out
+    manhattan
+    nice
+    draw
+    eyes
+    flirtatiou
+    bundle
+    professional
+    friends
+    younger
+    deranged_lizzie_borden187
+    rich
+    age
+    together
+    dudedette
+    curvy
+    push
+    hello
+    minister
+    
