@@ -175,14 +175,14 @@ def localWords(feed1,feed0):                                # 인자는 두 지�
   for docIndex in trainingSet:
     trainMat.append(bagOfWords2VecMN(vocabList, docList[docIndex]))
     trainClasses.append(classList[docIndex])
-  p0V,p1V,pClass1 = trainNB0(array(trainMat),array(trainClasses))        # pSpam을 pClass1으로 바꿔도 되는 거 아닐까?
-  errorCount = 0
-  for docIndex in testSet:
-    wordVector = bagOfWords2VecMN(vocabList, docList[docIndex])
-    if classifyNB(array(wordVector),p0V,p1V,pClass1) != classList[docIndex]:
-      errorCount += 1
-  print 'the error rate is: ',float(errorCount)/len(testSet)
-  return vocabList, p0V, p1V
+  p0V,p1V,pClass1 = trainNB0(array(trainMat),array(trainClasses))        # 학습용 함수 trainNBO의 반환된 세 개의 값을 변수로 설정합니다.
+  errorCount = 0                                                         # 에러의 개수를 초기화합니다.
+  for docIndex in testSet:                                               # 테스트용 문서에 있는 각 인덱스에 대해서
+    wordVector = bagOfWords2VecMN(vocabList, docList[docIndex])          # bagOfWords2VecMN을 거쳐 반환받은 값을
+    if classifyNB(array(wordVector),p0V,p1V,pClass1) != classList[docIndex]:  # classifyNB 함수를 한 번 더 거친 후의 반환값이
+      errorCount += 1                                                    #  classList의 인덱스와 일치하지 않을 경우 에러횟수를 1 추가합니다.
+  print 'the error rate is: ',float(errorCount)/len(testSet)             # 에러율을 출력합니다.
+  return vocabList, p0V, p1V                                             # 단어리스트와 class0과 1로 분류될 각 확률을 반환합니다.
 
 
 
